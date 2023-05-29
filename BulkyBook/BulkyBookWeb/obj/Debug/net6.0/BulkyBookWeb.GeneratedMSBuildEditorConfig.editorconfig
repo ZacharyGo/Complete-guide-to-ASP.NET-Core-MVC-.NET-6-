@@ -16,8 +16,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/CategoriesTemp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RlbXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/CategoriesTemp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RlbXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/CategoriesTemp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RlbXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/CategoriesTemp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RlbXBcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/CategoriesTemp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1RlbXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Category/Index.cshtml]
@@ -34,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/BulkyBook/BulkyBookWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
