@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AbbyWeb.bundle.scp.css"
     },
     {
+      "Id": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\css\\bootswatch_cyborg.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch_cyborg.css"
+    },
+    {
       "Id": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\Abby\\AbbyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
