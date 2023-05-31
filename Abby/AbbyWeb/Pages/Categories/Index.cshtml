@@ -7,7 +7,7 @@
             <h2 class="text-primary">Category List</h2>
         </div>
         <div class="col-6 text-end">
-            <a asp-page="create" class="btn btn-primary"><i class="bi bi-pencil-square"></i> Create New Category</a>
+            <a asp-page="create" class="btn btn-primary"><i class="bi bi-plus-square"></i> &nbsp;Create New Category</a>
         </div>
     </div>
     <br /><br />
@@ -22,8 +22,18 @@
             @foreach(var obj in Model.Categories)
             {
                 <tr>
-                    <td>@obj.Name</td>
-                    <td>@obj.DisplayOrder</td>
+                    <td width="50%">@obj.Name</td>
+                    <td width="30%">@obj.DisplayOrder</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-page="Edit" asp-route-id="@obj.Id" class="btn btn-primary mx-2">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>                    
+                            <a asp-page="Delete" class="btn btn-danger mx-2">
+                                <i class="bi bi-trash-fill"></i>
+                            </a>
+                        </div>
+                    </td>
                 </tr>                
             }
             
