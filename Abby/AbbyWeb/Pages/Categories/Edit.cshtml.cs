@@ -40,6 +40,7 @@ namespace AbbyWeb.Pages.Categories
                 /*await _db.Category.AddAsync(category);*/
                 _db.Category.Update(Category);
                 await _db.SaveChangesAsync();
+                TempData["success"] = "Category " + Category.Name + " updated successfully";
                 return RedirectToPage("Index");
             }
             return Page();

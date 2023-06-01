@@ -1,0 +1,4 @@
+﻿
+The following files came from BulkyBookWeb Project\Models:
+	Category.cs 
+	ErrorViewModel.cs

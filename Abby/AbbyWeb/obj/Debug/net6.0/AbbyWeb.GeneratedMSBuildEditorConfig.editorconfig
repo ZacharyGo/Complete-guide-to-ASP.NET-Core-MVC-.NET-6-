@@ -32,6 +32,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/CategoryCRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/CategoryCRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/CategoryCRUD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/CategoryCRUD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/CategoryCRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDUlVEXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/Practice/ASP.NET/Complete guide to ASP.NET Core MVC (.NET 6)/Abby/AbbyWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]

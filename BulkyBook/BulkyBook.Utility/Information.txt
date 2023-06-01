@@ -1,0 +1,6 @@
+﻿This project will be responsible to have all the genetic utility for the project:
+	Email options
+	Payment Settings
+	Session Extensions
+	Static Details of the Website.
+More like a helper project.
