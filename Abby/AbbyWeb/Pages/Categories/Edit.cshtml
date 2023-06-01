@@ -2,6 +2,7 @@
 @model AbbyWeb.Pages.Categories.EditeModel
 
 <form method="post">
+    <input hidden asp-for="Category.Id" />
     <div class="row pb-2">
         <div class="row pb-2">
             <h2 class="text-primary pl-3">Edit Category</h2>
@@ -22,7 +23,8 @@
             <input asp-for="@Model.Category.DisplayOrder" class="form-control" />
             <span asp-validation-for="Category.DisplayOrder" class="text-danger"></span>
         </div>
-        <button type="submit" class="btn btn-primary" style="width:150px;">Create</button>
+        <button type="su bmit" class="btn btn-primary" style="width:150px;">Update</button>
+        <a asp-page="Index" class="btn btn-secondary" style="width:150px;">Back to List</a>
     </div>
 </form>
 @section Scripts {
