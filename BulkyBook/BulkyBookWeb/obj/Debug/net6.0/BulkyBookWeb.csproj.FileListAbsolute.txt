@@ -1,3 +1,11 @@
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.Development.json
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.json
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.staticwebassets.runtime.json
@@ -268,14 +276,6 @@ Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyB
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyBookWeb.props
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
@@ -292,3 +292,6 @@ Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyB
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
