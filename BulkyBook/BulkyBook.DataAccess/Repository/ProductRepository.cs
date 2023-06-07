@@ -38,7 +38,7 @@ namespace BulkyBook.DataAccess.Repository
                 }
 
             }
-            _db.Products.Update(objFromDb);
+            //_db.Products.Update(objFromDb);
         }
     }
 }

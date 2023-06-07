@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p5v08NXXp7soxPOa/K6AhgpppCeHw29iu06s/TTEwio=",
+  "Hash": "B1G21g1uTUtMGdlv5TDF1YLMifcH/+s4GSn/aLer6ss=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\ea01c5ba-d818-4923-949b-ec77f5ca3f00.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/ea01c5ba-d818-4923-949b-ec77f5ca3f00.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\ea01c5ba-d818-4923-949b-ec77f5ca3f00.jpg"
+    },
+    {
+      "Identity": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",

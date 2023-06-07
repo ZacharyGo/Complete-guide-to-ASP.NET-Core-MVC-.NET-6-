@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\ea01c5ba-d818-4923-949b-ec77f5ca3f00.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ea01c5ba-d818-4923-949b-ec77f5ca3f00.jpg"
+    },
+    {
+      "Id": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

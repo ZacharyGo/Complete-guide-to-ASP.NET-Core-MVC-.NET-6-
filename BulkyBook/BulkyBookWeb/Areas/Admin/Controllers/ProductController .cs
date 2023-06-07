@@ -11,17 +11,20 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
     {
 
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IWebHostEnvironment _hostEnvironment; // Dependency Injection to access wwwroot\images\products
 
 
-        public ProductController(IUnitOfWork unitOfWork)
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment hostEnvironment)
         {
             /*_db = db;*/
             _unitOfWork = unitOfWork;
+            _hostEnvironment = hostEnvironment;
         }
         public IActionResult Index()
         {
-            IEnumerable<Product> objProductList = _unitOfWork.Product.GetAll();
-            return View(objProductList);
+            /*IEnumerable<Product> objProductList = _unitOfWork.Product.GetAll();
+            return View(objProductList);*/
+            return View();
         }
 /*        // Get
         public IActionResult Create()
@@ -70,22 +73,50 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             }
             else // Update Product
             {
-
+                productVM.Product = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id);
+                return View(productVM);
             }
- 
 
-            return View(productVM);
+
         }
         //POST
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Upsert(ProductVM obj, IFormFile file)
+        public IActionResult Upsert(ProductVM obj, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
-                //_unitOfWork.Product.Update(obj);
+                string wwwRootPath = _hostEnvironment.WebRootPath;
+                if (file != null)
+                {
+                    string fileName = Guid.NewGuid().ToString();
+                    var uploads = Path.Combine(wwwRootPath, @"images\products");
+                    var externsion = Path.GetExtension(file.FileName);
+
+                    if (obj.Product.ImageUrl != null) //Check if we are replacing an image
+                    {
+                        var oldImagePath = Path.Combine(wwwRootPath, obj.Product.ImageUrl.TrimStart('\\'));
+                        if (System.IO.File.Exists(oldImagePath))
+                        {
+                            System.IO.File.Delete(oldImagePath); // Remove old Image
+                        }
+                    }
+
+                    using (var fileStreams = new FileStream(Path.Combine(uploads, fileName + externsion),FileMode.Create))
+                    {
+                        file.CopyTo(fileStreams);
+                    }
+                    obj.Product.ImageUrl=@"\images\products\" + fileName+ externsion;
+                }
+                if (obj.Product.Id == null) {
+                    _unitOfWork.Product.Add(obj.Product);
+                }
+                else
+                {
+                    _unitOfWork.Product.Update(obj.Product);
+                }
                 _unitOfWork.Save();
-                TempData["success"] = "Product " + obj.Product.Title + " successfully updated";
+                TempData["success"] = "Product " + obj.Product.Title + " successfully created";
                 return RedirectToAction("Index");
             }
             return View(obj);
@@ -123,5 +154,15 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             return View(obj);
 
         }
+        #region API Calls
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var productList = _unitOfWork.Product.GetAll(includeProperties:"Category,CoverType");
+            return Json(new { data = productList });
+        }
+
+        #endregion
+
     }
 }
