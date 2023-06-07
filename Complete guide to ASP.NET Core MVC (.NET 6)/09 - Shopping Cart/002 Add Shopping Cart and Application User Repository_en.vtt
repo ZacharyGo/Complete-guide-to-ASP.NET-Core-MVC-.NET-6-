@@ -1,0 +1,100 @@
+WEBVTT
+
+00:01.680 --> 00:05.340
+In the last radio, we added shopping cart to our database.
+
+00:05.940 --> 00:08.280
+Now let's add that in our repository.
+
+00:09.000 --> 00:15.990
+Also, if you notice in our models, we have application user so we can create a repository to work
+
+00:15.990 --> 00:17.520
+with that table as well.
+
+00:18.160 --> 00:23.310
+So that me add to that is based the category repository two times.
+
+00:24.210 --> 00:31.980
+First one will be the shopping cart repository and next that may be named the application user depository.
+
+00:35.900 --> 00:42.380
+So let me copy the name here, which is a shopping cart repository and open that up in here.
+
+00:42.560 --> 00:45.800
+Let's modify everything to be for a shopping cart.
+
+00:49.920 --> 00:53.610
+We do not want any update right now, so we can just remove that.
+
+00:53.820 --> 00:57.900
+We will just be using the basic methods that we have in the repository.
+
+00:58.680 --> 01:00.670
+We need to implement the interface.
+
+01:00.690 --> 01:02.700
+I will do that in just a second.
+
+01:03.240 --> 01:06.180
+Let me modify the application user as well.
+
+01:06.930 --> 01:09.990
+The model here will be application user.
+
+01:11.630 --> 01:15.590
+Inside user also, let's not worry about the update for now.
+
+01:16.250 --> 01:22.850
+So these two are very simple repositories where we are directly accessing all the methods that we have
+
+01:22.850 --> 01:24.320
+in the base repository.
+
+01:25.490 --> 01:31.040
+We should have implemented the interface first, but that's OK since we can just paste the category
+
+01:31.040 --> 01:41.240
+repository category repository interface and change that to be an application user repository that can
+
+01:41.240 --> 01:45.380
+copy that name and modify application user.
+
+01:45.590 --> 01:47.450
+We do not want the update method.
+
+01:47.780 --> 01:50.900
+We've removed that next to a category.
+
+01:51.660 --> 01:54.830
+This will be a shopping cart repository.
+
+01:55.700 --> 02:00.140
+We do not want to copy at the end that will copy that name there.
+
+02:03.340 --> 02:04.540
+And this looks good.
+
+02:05.620 --> 02:09.460
+So with this, we should not have any errors in the repositories.
+
+02:10.240 --> 02:10.780
+Perfect.
+
+02:11.050 --> 02:15.430
+Let me close all the tabs and modify our unit of foot interface.
+
+02:16.450 --> 02:24.160
+We have the shopping cart and I application user repository next modified the unit of work itself.
+
+02:28.010 --> 02:36.980
+We have the shopping cart there, and with a public eye application user repository here, we initialize
+
+02:36.990 --> 02:40.640
+the application user and the shopping cart.
+
+02:42.270 --> 02:49.110
+So with that God created us works, looks good for both the repository of shopping cart as well as application
+
+02:49.110 --> 02:49.650
+user.

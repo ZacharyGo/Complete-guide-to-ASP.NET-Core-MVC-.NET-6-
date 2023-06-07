@@ -1,0 +1,178 @@
+WEBVTT
+
+00:01.740 --> 00:08.460
+In this video, let's take a look at what card added when we scaffolded the identity, and let's start
+
+00:08.460 --> 00:09.300
+with the program.
+
+00:09.630 --> 00:11.970
+Yes, crossfire here.
+
+00:11.970 --> 00:19.170
+We already had the deep context, but what got added is this new line, which is at default identity.
+
+00:19.860 --> 00:26.400
+When we're adding identity, it is adding that the services for our container, it is saying that you
+
+00:26.400 --> 00:30.390
+have to use the default identity, which is identity user.
+
+00:30.780 --> 00:38.190
+And when we use identity for locking register and all those tables, we would require entity framework.
+
+00:38.820 --> 00:44.160
+So it is adding entity framework stores, which is on application deep context.
+
+00:44.820 --> 00:49.190
+So this is doing all the mapping of our identity with entity framework.
+
+00:49.270 --> 00:55.080
+Over here, we have option that you can only signing in if your email is confirmed.
+
+00:55.570 --> 01:01.500
+We're going to remove that for now because we did want the account to be confirmed before logging in.
+
+01:02.160 --> 01:08.670
+Then if you scroll down when you are configuring Ahmedabad, you will notice a new middleware was added
+
+01:08.820 --> 01:13.320
+between routing and authorization, which is use authentication.
+
+01:14.100 --> 01:20.610
+This is the middleware for authentication and authentication should always come before authorization
+
+01:21.150 --> 01:25.020
+because you can only authorize a user if they are authenticated.
+
+01:25.620 --> 01:29.070
+You never authenticate a user after they are authorized.
+
+01:29.460 --> 01:36.270
+So if you're trying to move authentication after authorization, then the authentication will not work.
+
+01:36.840 --> 01:41.160
+So when you are working with Metal Badge, the order is extremely important.
+
+01:42.150 --> 01:46.680
+So those were all the changes inside the program that a yes class file.
+
+01:47.490 --> 01:50.910
+Next thing that card added is inside our alias folder.
+
+01:51.370 --> 01:54.240
+Now it added a new area for identity.
+
+01:55.020 --> 01:59.940
+If he explained that we have pages and all of them are reserved pages.
+
+02:00.690 --> 02:07.710
+So if you examine register, for example, here we have to register page and we have page model like
+
+02:07.710 --> 02:09.540
+we saw in reserve pages.
+
+02:10.410 --> 02:17.220
+So all the identity related stuff will be using the reserve pages and not MVC application.
+
+02:18.090 --> 02:25.590
+So that's why I give you a small foundation on how reserve pages and the page model works inside this
+
+02:25.590 --> 02:26.250
+register.
+
+02:26.520 --> 02:27.880
+We have a constructor.
+
+02:27.900 --> 02:31.290
+We are getting fewer things using dependency injection.
+
+02:31.740 --> 02:32.670
+We scroll down.
+
+02:32.760 --> 02:39.440
+We have a model that we are finding and we have to get handler, post handler, et cetera.
+
+02:40.380 --> 02:47.010
+This is pretty straightforward to what we learned in reserve benches, but with identity, I want to
+
+02:47.010 --> 02:53.910
+show you one thing when we are working with signing in a new user, creating their password, assigning
+
+02:53.910 --> 02:58.710
+them roles, etc., we need to implement all of those functionalities.
+
+02:59.400 --> 03:04.500
+But with the identity class library, we get all of them implemented for us.
+
+03:05.130 --> 03:09.150
+We have sign in manager, user manager, role of manager.
+
+03:09.510 --> 03:15.990
+All of them have helper methods to sign in a user to create that account if they want to assign roles
+
+03:15.990 --> 03:17.880
+to a user and all of that.
+
+03:18.630 --> 03:21.630
+We do not have to implement all those complex logic.
+
+03:22.020 --> 03:29.430
+Everything is done by default, so that will save a lot of time when we want to add identity to our
+
+03:29.430 --> 03:30.060
+project.
+
+03:31.280 --> 03:34.910
+If you want, you can customize everything that is added here.
+
+03:35.360 --> 03:37.460
+But we will work with the basic stuff.
+
+03:37.820 --> 03:41.030
+And of course, we're there to do some customizations as well.
+
+03:42.310 --> 03:45.550
+So that is a brief overview of what got added.
+
+03:46.240 --> 03:51.550
+One last thing that got added other than identity pages is inside views.
+
+03:51.970 --> 03:57.240
+Now we have a new partial view, which is like NPR show in here.
+
+03:57.250 --> 04:04.420
+If a user is signed in or display a lockout button and their email address here, if the user is not
+
+04:04.420 --> 04:08.290
+logged in or displayed that locking and quite a start button.
+
+04:09.460 --> 04:15.160
+So that being said, it makes sense to include this large and partial inside our layout page.
+
+04:16.360 --> 04:23.650
+So if they scroll down after this, you will element here, let me add a partial view with the name
+
+04:23.650 --> 04:24.970
+of log in our show.
+
+04:25.660 --> 04:28.270
+Let's save that and see what happens.
+
+04:32.220 --> 04:38.280
+Great, you can see on the right hand side, we have the register and Larkin, let me go back to the
+
+04:38.280 --> 04:39.970
+partial view here.
+
+04:39.990 --> 04:41.130
+The text is dark.
+
+04:41.280 --> 04:45.140
+Let me get him off that because our navigation is dark itself.
+
+04:48.000 --> 04:51.720
+Let me save that and refresh here for a fact.
+
+04:52.680 --> 04:55.620
+With that, let's continue from the next radio.

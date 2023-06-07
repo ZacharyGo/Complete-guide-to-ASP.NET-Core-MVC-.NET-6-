@@ -1,0 +1,166 @@
+WEBVTT
+
+00:01.780 --> 00:05.800
+Now I want to add a dropdown here that will display all the rooms.
+
+00:06.520 --> 00:13.060
+So if we go back to the application, we will stop this and we will work on the register page model.
+
+00:13.510 --> 00:17.770
+We have the cat handler in order to display a dropdown.
+
+00:17.890 --> 00:25.390
+We need an innumerable select list item so we can add that inside the input model that we have.
+
+00:26.260 --> 00:32.680
+So at the end here with phone number, I will add and I enumerable off the select list item.
+
+00:33.220 --> 00:37.840
+I will call that as a rule, the best way to make sure we are validated.
+
+00:37.840 --> 00:42.970
+Never because we never want any validations on this I enumerable.
+
+00:43.840 --> 00:48.130
+Then we can load this inside the cat handler using projection.
+
+00:48.820 --> 00:53.620
+We are not passing any input model here because it is empty by default.
+
+00:54.220 --> 01:01.630
+Right now, we want to populate the row list, so we will say input is equal to a new input model.
+
+01:03.370 --> 01:06.820
+And on this, we just want to populate our row.
+
+01:07.190 --> 01:10.390
+Next, we want to use our database for that.
+
+01:11.290 --> 01:17.650
+Now how can we get all of the rules that are present inside the table of ASP.NET roles?
+
+01:18.550 --> 01:25.510
+As I said before, we have the helper method intact for the manager, so we do not have to access our
+
+01:25.510 --> 01:28.070
+application to be context right now.
+
+01:28.990 --> 01:30.340
+So what role manager?
+
+01:30.640 --> 01:36.610
+We have roles and on that we can do a select projection from all the roles.
+
+01:36.670 --> 01:39.280
+We just want to select more of the role.
+
+01:39.970 --> 01:47.110
+Once we select the name, we will use projection on select statement and we will protect that to a new
+
+01:47.260 --> 01:49.090
+select list item.
+
+01:51.020 --> 01:58.340
+And when we create that, we kind of signed the text and value, so text will be the name and the value
+
+01:58.340 --> 01:59.840
+will also be I.
+
+02:00.410 --> 02:03.590
+Because names will be distinct when we are working with roles.
+
+02:03.950 --> 02:06.110
+So this will not be an issue.
+
+02:06.950 --> 02:12.950
+So we have to role that is populated with the help of projections and billing statements.
+
+02:13.730 --> 02:17.540
+But projections basically does is where we have some list here.
+
+02:17.990 --> 02:21.470
+It will project or extract some data back here.
+
+02:21.470 --> 02:23.420
+It is just extracting name.
+
+02:23.930 --> 02:27.860
+And then we are projecting that name to a select list item.
+
+02:28.790 --> 02:33.470
+So in the end, it will be an innumerable off the select list item.
+
+02:34.220 --> 02:34.940
+Pretty cool.
+
+02:35.810 --> 02:39.320
+Lastly, we just need to display this inside the dropdown.
+
+02:39.710 --> 02:41.570
+So instead, register here.
+
+02:42.320 --> 02:43.070
+Like my copy?
+
+02:43.070 --> 02:48.170
+That div based pasted one more time I can remove the validation.
+
+02:48.590 --> 02:50.150
+This will not be an input.
+
+02:50.480 --> 02:52.250
+It will actually be a select.
+
+02:52.250 --> 02:53.870
+So let me start from scratch.
+
+02:54.230 --> 02:56.480
+We have the ASP for tag helper.
+
+02:56.990 --> 03:03.350
+We need to bind it to some property so that whatever we select from the list of rules is binding.
+
+03:03.590 --> 03:10.070
+When the form is posted so far that we need to create one more property inside our model.
+
+03:10.430 --> 03:14.780
+We will call that as a rule and we can make it available as well.
+
+03:15.710 --> 03:22.760
+So the input for this we can set input back rule, then we need to get the role list.
+
+03:23.480 --> 03:32.060
+So roll list will be the tag helper ASP items and that is inside models that input dark raw list.
+
+03:33.530 --> 03:39.560
+Now, if you do not want the Model S. such as binded, you can just use input to the list, after all.
+
+03:40.700 --> 03:47.780
+Finally, let's get rid of bootstrap class form select, and that looks good if you want.
+
+03:47.780 --> 03:55.580
+You can add a default option which will be disabled where we can say select run at me, save this and
+
+03:55.580 --> 03:56.810
+run the application.
+
+03:58.870 --> 04:02.740
+So if I go to register now, we should see the list of roles.
+
+04:03.190 --> 04:03.790
+Perfect.
+
+04:04.360 --> 04:05.440
+That looks great.
+
+04:05.890 --> 04:08.110
+But right now, the rules are only displayed.
+
+04:08.830 --> 04:13.480
+What we need to do is find this electoral here and hit the register button.
+
+04:13.870 --> 04:16.690
+Users should be created with federal.
+
+04:17.740 --> 04:19.930
+Let's do that in the next video.

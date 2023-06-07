@@ -1,0 +1,64 @@
+WEBVTT
+
+00:01.710 --> 00:08.220
+No, next thing that we want to do is when we registered a company user user will select a company here,
+
+00:08.640 --> 00:14.310
+and at that point, we want to assign this company to the new user that is created.
+
+00:15.210 --> 00:22.260
+So if we go back and say we'll have to go to the page model, the company will be inside company I.D.
+
+00:23.550 --> 00:25.800
+we want to assign that company already.
+
+00:26.160 --> 00:28.230
+Only if the role is comfortable.
+
+00:29.070 --> 00:36.770
+So when we are assigning the properties right here, we can check here if input dark role is equally
+
+00:36.780 --> 00:42.120
+good as the Dark Company only, then we want the same user.
+
+00:42.120 --> 00:47.670
+Dark Company I.D. is equal to input that company 18.
+
+00:48.450 --> 00:53.220
+So that will assign the company ID inside the aspirin at user's table.
+
+00:53.910 --> 00:59.850
+But you need to make sure that role is also assigned and then we are assigning the roles.
+
+01:00.060 --> 01:01.260
+So that is perfect.
+
+01:02.100 --> 01:06.720
+Let me restart the application and now register a company user.
+
+01:09.410 --> 01:11.140
+So that's what it is to hear.
+
+01:16.230 --> 01:20.040
+With a select company here, and let me select Sparky
+
+01:22.860 --> 01:27.540
+with that, let's check the register button that got created.
+
+01:27.960 --> 01:35.040
+Let me see if there's go back to the database and we'll see the new user right here.
+
+01:35.640 --> 01:40.530
+If we go to the right, the company, it should be calculated and perfect.
+
+01:41.340 --> 01:48.660
+So with that, all of our users are working as expected and we are able to register the user based on
+
+01:48.660 --> 01:49.650
+our requirement.
+
+01:51.320 --> 01:54.170
+So everything with identity is looking good.
+
+01:54.680 --> 01:56.900
+Let's continue in the next section.

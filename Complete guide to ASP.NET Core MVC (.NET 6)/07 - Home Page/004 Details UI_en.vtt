@@ -1,0 +1,280 @@
+WEBVTT
+
+00:01.610 --> 00:04.340
+Now it's time to work on the details for you.
+
+00:04.790 --> 00:08.900
+We can quite click on the action matter here and select Add View.
+
+00:09.440 --> 00:14.780
+You can either select the empty place there view and then you will have to rename the View based on
+
+00:14.780 --> 00:15.800
+the action method.
+
+00:16.220 --> 00:21.710
+But if you select the reserve you, you can see the view name is automatically populated.
+
+00:22.220 --> 00:23.900
+Then template will be empty.
+
+00:24.090 --> 00:29.780
+But this will not be a partial view, so we can uncheck that and hit the add button.
+
+00:30.960 --> 00:37.740
+So you can see we can use both the options that are available when we are creating use, when you use
+
+00:37.740 --> 00:38.520
+this approach.
+
+00:38.790 --> 00:42.420
+We have some new data and details that is populated.
+
+00:42.840 --> 00:44.310
+We will remove all of that.
+
+00:45.030 --> 00:50.400
+Let's make sure that you got added in the correct location set inside areas.
+
+00:50.760 --> 00:53.640
+We have home folder in that we have details.
+
+00:54.000 --> 00:54.900
+That is perfect.
+
+00:56.120 --> 00:59.630
+You should first think of what will be the model of this view.
+
+01:00.200 --> 01:07.190
+That is the first question you should ask for, and if you are razor pages that you create inside home
+
+01:07.190 --> 01:14.690
+controller details, we are passing a shopping cart object so we can copy that and paste that here for
+
+01:14.690 --> 01:15.320
+our model.
+
+01:16.040 --> 01:17.750
+It is not able to read that.
+
+01:18.140 --> 01:20.000
+Let's see where we have our model.
+
+01:20.540 --> 01:23.120
+This model, we placed it inside view model.
+
+01:23.480 --> 01:30.050
+It should actually be, in fact, the model's folder because we will be adding shopping cart to database
+
+01:30.050 --> 01:30.830
+pretty soon.
+
+01:31.670 --> 01:35.420
+So that will open this and make sure the namespace is correct.
+
+01:35.780 --> 01:36.920
+It will be models.
+
+01:37.490 --> 01:40.550
+And with that, it should recognize the shopping cart now.
+
+01:41.390 --> 01:41.960
+Perfect.
+
+01:42.470 --> 01:44.390
+Now what do we want to display here?
+
+01:44.900 --> 01:47.780
+We want to display all the details of the product.
+
+01:48.350 --> 01:55.250
+So rather than wasting our time, I have provided snippets that you can see on the lecture project resources
+
+01:55.640 --> 01:58.160
+in the first section in there.
+
+01:58.160 --> 02:04.370
+If your download project resources from Darknet Mastery and open them, you will see all the files.
+
+02:05.100 --> 02:06.710
+We will go to the attachments.
+
+02:06.710 --> 02:09.080
+Here we are in Section seven.
+
+02:10.220 --> 02:11.350
+We have the details.
+
+02:11.360 --> 02:19.160
+You, I, you will copy everything here and paste it inside to view once you examine what you pasted.
+
+02:19.400 --> 02:21.410
+There won't be any C-sharp code.
+
+02:21.650 --> 02:23.060
+It is just HDMI.
+
+02:23.220 --> 02:26.030
+A. Yes, so that's great.
+
+02:26.180 --> 02:32.600
+We always want to save our time with HDMI and CSX before we run our application.
+
+02:33.020 --> 02:34.550
+Let's go to the index page.
+
+02:34.940 --> 02:42.530
+Here we are navigating to the details section and we are passing the speed at which is the product title
+
+02:43.220 --> 02:44.630
+since we are passing that ID.
+
+02:45.020 --> 02:48.620
+We are retrieving that here and everything should work.
+
+02:49.340 --> 02:52.910
+So let's run the application and see what happens.
+
+02:55.200 --> 03:01.110
+So let's hit the details button and perfect, we have our template that is up and running.
+
+03:01.830 --> 03:08.850
+We just need to replace all of this dummy text with the actual text from our shopping cart dot product
+
+03:08.850 --> 03:09.360
+object.
+
+03:10.290 --> 03:15.550
+So let's go back and let's do that inside the details right here.
+
+03:15.600 --> 03:17.640
+Let me just add some padding top up.
+
+03:17.640 --> 03:23.130
+For first thing, we have time to do so in order to access model.
+
+03:23.370 --> 03:27.600
+We have Capital M Model Dot Product title.
+
+03:28.800 --> 03:36.780
+Let me just copy the Model Dot product page it before after we have Model Dot product author.
+
+03:37.380 --> 03:44.820
+Next, we want cover tight inside that we want to extract the name of the cover type and same will be
+
+03:44.820 --> 03:46.500
+valid for a category.
+
+03:48.070 --> 03:53.650
+Whether it's scroll down, we have the ISBN, so model dot product Dot ISBN.
+
+03:54.340 --> 03:56.710
+Next, we want to display the list price here.
+
+03:56.890 --> 03:59.530
+So model stock product list, right?
+
+04:00.010 --> 04:06.700
+And we want to convert that to currency so we can use to a string and we will try to see between that
+
+04:06.820 --> 04:13.750
+for currency that may copy the currency because here we need to display all the three price.
+
+04:14.260 --> 04:22.090
+You can see we have price for one two fifty fifty one, two hundred and hundred plus so far point fifty.
+
+04:22.090 --> 04:26.260
+We have price for fifty one two hundred.
+
+04:26.270 --> 04:27.880
+We have price fifty.
+
+04:28.870 --> 04:31.660
+And last one will be price, right?
+
+04:35.060 --> 04:37.550
+Let's scroll down, we have the description.
+
+04:37.790 --> 04:41.600
+So it's a model tart product description.
+
+04:42.380 --> 04:43.820
+Let me save all of this.
+
+04:44.090 --> 04:45.350
+Go back and refresh.
+
+04:46.250 --> 04:48.050
+Everything is coming along good.
+
+04:48.260 --> 04:56.050
+We have title author, cover type and category, and the price are also looking good right away.
+
+04:56.120 --> 05:00.320
+We have the description you can see it is adding the HDR content.
+
+05:00.980 --> 05:04.850
+That is because we have rich text editor for our description.
+
+05:05.600 --> 05:13.640
+So if you want to display Gmail, you will have to use HDMI 2.0 and within here you will pass the HDMI
+
+05:13.640 --> 05:16.280
+content that is inside description.
+
+05:16.910 --> 05:18.860
+Let's save that and refresh.
+
+05:19.130 --> 05:20.690
+And this looks much better.
+
+05:22.040 --> 05:26.000
+Next, we have to count here this we can find with that model.
+
+05:26.540 --> 05:34.950
+So instead of input, we can use ESP for tag helper and we want to bind this with count that way.
+
+05:34.970 --> 05:41.030
+Now, if you refresh, that default should be one because we are setting the default inside the home
+
+05:41.030 --> 05:42.980
+controller right here.
+
+05:44.050 --> 05:46.970
+So that looks great on the right side here.
+
+05:47.020 --> 05:48.850
+We want to display that image.
+
+05:49.600 --> 05:56.800
+So if we go back to details, I have the image as I see here, where we'll go to model dark product
+
+05:57.070 --> 06:00.820
+starting that, you know, let's refresh that.
+
+06:01.210 --> 06:02.860
+And this looks much better.
+
+06:03.980 --> 06:06.190
+Let's consider that back to last year.
+
+06:06.650 --> 06:08.540
+I thought, let me say back to home.
+
+06:10.320 --> 06:15.900
+And on this action method, it should go back to action of index.
+
+06:17.480 --> 06:22.220
+Liked what we have is add to cart button and we have type of segment.
+
+06:22.790 --> 06:25.070
+We have everything inside the phone tag.
+
+06:25.400 --> 06:32.390
+So when it is submitted where there's no like, what's the product, let's refresh back to home is functional.
+
+06:34.120 --> 06:37.540
+So with that, the details page of our shopping cart looks good.
+
+06:38.500 --> 06:40.840
+Let's continue from the next section.

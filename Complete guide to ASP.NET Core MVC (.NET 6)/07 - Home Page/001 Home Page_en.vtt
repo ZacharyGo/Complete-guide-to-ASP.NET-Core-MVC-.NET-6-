@@ -1,0 +1,370 @@
+WEBVTT
+
+00:01.430 --> 00:03.770
+Now I have created five products.
+
+00:04.370 --> 00:08.660
+What we want to do is on the homepage, let's display all the products.
+
+00:09.830 --> 00:15.980
+So I will start the application here, and we will be working inside the customer area.
+
+00:16.220 --> 00:23.690
+We have home controller and inside home we have the index view that will close everything else here
+
+00:24.380 --> 00:25.700
+with home controller.
+
+00:25.730 --> 00:33.290
+We need to get a unit of work to access all the product so that look at that and we at the using statement.
+
+00:34.510 --> 00:35.800
+Then insect index.
+
+00:35.830 --> 00:38.770
+Think about what will be the model that they will need.
+
+00:39.490 --> 00:41.680
+We need a collection of product.
+
+00:41.860 --> 00:46.360
+So we need to get all the product left and we have to send them to the view.
+
+00:47.800 --> 00:55.120
+So right here, we will get an innumerable way to control dark water using statement of generics.
+
+00:55.840 --> 00:57.760
+And this will be on product.
+
+00:58.150 --> 00:59.740
+We need a list of products.
+
+01:00.070 --> 01:07.110
+I will call this product list as equal opportunity for our product to get our.
+
+01:08.040 --> 01:14.310
+We want to retrieve all of the products, but when we do that, we also want to include the properties
+
+01:14.760 --> 01:17.430
+of category and cover type.
+
+01:18.360 --> 01:21.510
+If you make a case in mistake here, this won't work.
+
+01:22.260 --> 01:23.970
+So we have our product list.
+
+01:24.330 --> 01:26.790
+Let's give that product list to our few.
+
+01:27.800 --> 01:34.430
+Once we have that inside our view, if you right click here and go to view, we will navigate here to
+
+01:34.430 --> 01:35.240
+the home page.
+
+01:36.420 --> 01:42.810
+Inside any of The View, the first topic that you should do is to say what will be the model of this
+
+01:42.810 --> 01:43.200
+view?
+
+01:43.920 --> 01:48.840
+We are passing from controller and I innumerable of product.
+
+01:49.110 --> 01:51.870
+So that is what we will receive right here.
+
+01:52.650 --> 01:55.020
+You can see the product here is not found.
+
+01:55.350 --> 01:57.990
+That could be because of the view import.
+
+01:58.500 --> 02:03.030
+We already have the models, so I'm surprised why that is not found here.
+
+02:03.570 --> 02:08.280
+And you can see it is getting confused with the product index and product absurd.
+
+02:08.920 --> 02:15.300
+We want to go to the models here so we can directly say bulk book dark models dark product.
+
+02:16.140 --> 02:21.210
+Sometimes using the same names for folder can be confusing with the reference.
+
+02:22.050 --> 02:29.650
+Then we have our enumerable right here, so that will additive give that some bootstrap classes for
+
+02:29.660 --> 02:32.280
+row and padding bottom of three.
+
+02:33.030 --> 02:39.180
+What we want to do is we want to have a for each loop so that we can look through all of the products
+
+02:39.180 --> 02:45.990
+that we have and display them so we can say variable product in our model.
+
+02:46.680 --> 02:51.090
+When you define the model for the view, the end will always be lower case.
+
+02:51.450 --> 02:57.750
+And whenever you want to access the model that you defined here inside your view, that will be a capital
+
+02:57.750 --> 03:05.730
+M. Make sure to always remember that or else it won't work inside here would be to create a day of of
+
+03:05.730 --> 03:13.020
+class column large three so that in a large screen, we will see Ford products next to each other.
+
+03:13.740 --> 03:20.280
+And in a movie on screen, I can see empty six so that we can see two products next to each other.
+
+03:20.670 --> 03:24.660
+These are just bootstrap partition in here.
+
+03:24.820 --> 03:32.790
+We will create a class give back row and padding off to finally within that will additive give it a
+
+03:32.790 --> 03:33.960
+class of card.
+
+03:34.350 --> 03:41.330
+And let me also give batting one, give it a great border and a border radius of.
+
+03:41.340 --> 03:42.240
+I think so.
+
+03:42.870 --> 03:47.820
+Actually, I do not want card here that middle column 12 for the full plate.
+
+03:48.240 --> 03:51.510
+And finally, I will add a class of card.
+
+03:52.920 --> 03:59.550
+In fact, that we will be displaying the image so we can set the SIRC and that is inside our product.
+
+04:00.060 --> 04:08.790
+So here we will sit at the rate we have product dot image, the URL that will display an image and we
+
+04:08.790 --> 04:13.770
+will give it some bootstrap classes of card image top and rounded.
+
+04:15.240 --> 04:17.430
+So with that, our image looks good.
+
+04:17.970 --> 04:23.340
+Let's run the application and see if we can view the images for all the products.
+
+04:25.610 --> 04:31.610
+And great, we can see all the images, I have used a duplicate image here for two products.
+
+04:31.880 --> 04:33.830
+So I will fix that later on.
+
+04:34.520 --> 04:36.830
+Let's have more details right here.
+
+04:37.870 --> 04:46.800
+So if we go back after the image was additive, give it a class of padding left off one in there, we
+
+04:46.810 --> 04:53.260
+would add a paragraph, give that a glass of car title and heading five.
+
+04:53.590 --> 04:56.020
+We want to display that title of the book.
+
+04:56.830 --> 05:04.330
+I will also give that the Bush draft class text primary and the title will be inside product title.
+
+05:05.230 --> 05:06.120
+In the next line.
+
+05:06.130 --> 05:07.750
+We want to display the author.
+
+05:08.020 --> 05:10.990
+So let me copy and paste it one more time here.
+
+05:11.620 --> 05:13.060
+This won't be etch five.
+
+05:13.210 --> 05:17.590
+Let's remove that and we can make this text secondary.
+
+05:18.190 --> 05:20.560
+Here, we want to display the author name.
+
+05:21.310 --> 05:22.420
+Let me save this.
+
+05:22.780 --> 05:24.040
+Go back and refresh.
+
+05:24.490 --> 05:25.570
+And that looks good.
+
+05:27.290 --> 05:33.830
+Then we can copy this Dave bastard again with adding left one, we want to display the price.
+
+05:34.520 --> 05:38.180
+So in fact, photograph here we will see a list price colon.
+
+05:38.540 --> 05:44.600
+And then if you remember, we have the list price as well as the other price that we have with.
+
+05:44.640 --> 05:50.450
+We've had a strike here because we want the list price to be displayed in a bold attack here.
+
+05:50.750 --> 05:54.080
+We will see a dollar sign and then intact product.
+
+05:54.320 --> 05:55.730
+We have list price.
+
+05:56.150 --> 05:59.630
+I will convert that to two decimal, so we will set two.
+
+06:00.380 --> 06:02.090
+Zero point zero zero.
+
+06:03.020 --> 06:03.930
+Let's refresh.
+
+06:04.250 --> 06:05.420
+And this looks great.
+
+06:05.870 --> 06:07.970
+Our list price is cancelled out.
+
+06:08.720 --> 06:14.120
+And then on the next line, we want to display that this book is available as low as.
+
+06:14.390 --> 06:20.930
+And we want to display the Price 500 book because that is the lowest price that someone can buy.
+
+06:23.630 --> 06:25.130
+So let me copy this again.
+
+06:25.420 --> 06:35.020
+They said one more time, this time we will say as low as and inside bold will display price hundred.
+
+06:35.570 --> 06:37.370
+We don't want to strike that out.
+
+06:37.970 --> 06:38.960
+Let's remove that.
+
+06:41.380 --> 06:42.430
+Let me see if that.
+
+06:42.970 --> 06:44.650
+Let's go back and refresh.
+
+06:45.040 --> 06:46.720
+And this looks much better.
+
+06:47.560 --> 06:52.040
+Let me give this text in rather than second free and perfect.
+
+06:52.060 --> 06:53.410
+This looks much better.
+
+06:55.060 --> 07:01.780
+Now, I have added the same book two terms here, so let me go to product and added one of them.
+
+07:03.710 --> 07:05.930
+We do not have vanish in sunset.
+
+07:06.290 --> 07:07.310
+Let me add that.
+
+07:15.160 --> 07:16.070
+That's update.
+
+07:16.600 --> 07:17.530
+And go back.
+
+07:18.500 --> 07:25.070
+But in fact, a five books are looking great right now, so our homepage here looks good.
+
+07:25.350 --> 07:31.340
+But before the altar, we can add a by keyword right here before author.
+
+07:31.670 --> 07:32.810
+We can use by.
+
+07:33.410 --> 07:34.550
+Let me save that.
+
+07:35.420 --> 07:36.590
+And that looks good.
+
+07:37.100 --> 07:46.460
+Also, since we are inside card here, I can have a div gift that a class of card party and I will close
+
+07:46.460 --> 07:48.110
+that right here.
+
+07:50.420 --> 07:50.970
+Perfect.
+
+07:51.020 --> 07:58.250
+That is much better now in future, Apple, not waste time on trading or the bootstrap and styling that
+
+07:58.250 --> 07:59.690
+we did in this with you.
+
+08:00.320 --> 08:05.390
+And the reason is this course is purely on net core and MVC.
+
+08:05.960 --> 08:13.400
+So I want to give you guys as much as I can when it comes to MVC and darknet core rather than focusing
+
+08:13.400 --> 08:14.270
+on styling.
+
+08:15.250 --> 08:22.000
+So I will provide snippets moving forward, and I will show you how you can use them directly in the
+
+08:22.000 --> 08:22.390
+code.
+
+08:23.380 --> 08:25.840
+So that being said, the home page looks good.
+
+08:26.140 --> 08:31.390
+The only thing that remains here is adding a button to after card.
+
+08:31.390 --> 08:36.600
+Here we will add one death and an anchor tag in that anchor tag.
+
+08:36.670 --> 08:39.100
+We want to redirect to some action.
+
+08:39.850 --> 08:47.740
+Let's call that detailed action, and we will give it some bootstrap classes of BTN between primary
+
+08:48.220 --> 08:49.810
+and form control.
+
+08:50.810 --> 08:58.000
+Now, when we go to the details page, we will need the ID of the product so we can use the ESB route
+
+08:58.300 --> 09:00.220
+and we can pass the page either.
+
+09:00.730 --> 09:03.580
+This will be product that I.D..
+
+09:05.290 --> 09:09.850
+In fact, the anchor, Ted, let me display details, save this.
+
+09:10.180 --> 09:12.810
+Go back and take a look and perfect.
+
+09:12.820 --> 09:13.660
+This looks good.
+
+09:14.260 --> 09:16.750
+Let's continue from the next read you.

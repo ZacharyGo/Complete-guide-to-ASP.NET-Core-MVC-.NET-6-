@@ -1,0 +1,76 @@
+WEBVTT
+
+00:01.770 --> 00:05.910
+Now, let's run the application and register our first user.
+
+00:08.960 --> 00:13.340
+Let's click on the register page here and populate some details.
+
+00:14.090 --> 00:19.760
+I'm using had been one to three star as the password so that it is a secure password.
+
+00:20.330 --> 00:27.640
+That said, the register button and great, you can see it registers the user and sign in and register
+
+00:27.650 --> 00:29.150
+are no longer available.
+
+00:29.570 --> 00:33.110
+The user is locked in and we have a lock out button.
+
+00:34.480 --> 00:41.200
+If you can block out, it would lock us out and we are back on crutches and again, let's switch to
+
+00:41.200 --> 00:45.460
+sequels server and let's examine the ESPN end users table.
+
+00:46.210 --> 00:48.700
+Our first user has been created here.
+
+00:49.060 --> 00:55.240
+If you scroll to the right here, we have more properties and a user looks good.
+
+00:56.200 --> 01:01.150
+So with that, our default registration and log in is working as expected.
+
+01:01.900 --> 01:08.470
+But that is not sufficient for a large scale application because what we want is our users will have
+
+01:08.470 --> 01:12.370
+roles where they have admin users, we will have employees.
+
+01:12.700 --> 01:15.220
+Our customers are also of two types.
+
+01:15.880 --> 01:22.030
+They will either be a company customer or they can be individual customer shopping for a book.
+
+01:23.170 --> 01:28.690
+So in that case, the user that registers, we have to create some rules for those users.
+
+01:29.080 --> 01:32.710
+And also we need to provide board properties for a user.
+
+01:33.340 --> 01:37.360
+Right now, the only property that we have for user is phone number.
+
+01:37.780 --> 01:45.340
+But typically, we need more details, like name of the user that address city state postal code, etc.
+
+01:45.640 --> 01:48.010
+if they want to ship something to that user.
+
+01:48.790 --> 01:53.290
+So we need to add our properties of the users of our application.
+
+01:53.980 --> 02:00.370
+So in that case, we will have to modify the default implementation that we have if we go to program
+
+02:00.370 --> 02:04.300
+that, yes, the default user as identity user.
+
+02:05.140 --> 02:10.540
+So now we need a custom implementation, which will extend this identity user.
+
+02:11.560 --> 02:13.870
+Let's do that in the next video.

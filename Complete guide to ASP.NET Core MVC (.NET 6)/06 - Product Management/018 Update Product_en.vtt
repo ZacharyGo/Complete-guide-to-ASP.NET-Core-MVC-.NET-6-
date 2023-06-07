@@ -1,0 +1,148 @@
+WEBVTT
+
+00:01.910 --> 00:07.880
+Now here, we need to work on what should happen when we're updating a product, and the post action
+
+00:07.880 --> 00:08.990
+method is called.
+
+00:10.010 --> 00:13.060
+First, we will check if the model state is valid or not.
+
+00:13.070 --> 00:15.200
+That is correct after that.
+
+00:15.200 --> 00:22.490
+If the file is not, now we upload the file, but we need to make sure of one thing when we are updating,
+
+00:23.270 --> 00:26.090
+when we are updating an already existing image.
+
+00:26.390 --> 00:31.010
+We first need to delete an image that exist inside images products.
+
+00:32.320 --> 00:40.600
+So before we copy the new image right here, we can check if inside the object product, that image
+
+00:40.600 --> 00:41.310
+you are.
+
+00:41.710 --> 00:46.840
+If that is not, no, this means there is an existing image inside the database.
+
+00:47.350 --> 00:54.190
+So in that case, let's get the old image that we have to do that start to combine.
+
+00:54.460 --> 00:55.900
+We have to look back.
+
+00:56.440 --> 00:59.850
+And with that, what we need to combine is the image You are real.
+
+01:00.230 --> 01:03.910
+Now, if you notice here with image, you are in fact database.
+
+01:04.210 --> 01:08.410
+We are adding a backwards flash when we use metadata combined.
+
+01:08.740 --> 01:09.910
+We do not write that.
+
+01:10.390 --> 01:15.280
+So we will have to trim that forward slash from object product.
+
+01:15.460 --> 01:18.970
+That image you are l with will see trim start.
+
+01:19.690 --> 01:26.350
+We want to trim the forward slash if you write just one forward words that it takes the Netscape character.
+
+01:26.710 --> 01:29.020
+So you would have to write that two times.
+
+01:29.710 --> 01:35.710
+Once we have the complete back, we can see a system that are you that file that exist.
+
+01:36.370 --> 01:39.910
+We will first check if any file exists in this old pad.
+
+01:40.480 --> 01:43.000
+If it does, then we want to delete that.
+
+01:43.660 --> 01:46.720
+So systems that are you that fail to delete?
+
+01:47.880 --> 01:55.110
+So that means the old image will be removed here and then the world will be updated after that when
+
+01:55.110 --> 01:59.700
+we are calling the add here with their check OPG product that.
+
+02:00.750 --> 02:06.300
+If that is equal to zero, that means it's an ad in the ads part.
+
+02:06.540 --> 02:15.230
+We want to call the update, so give it a copy and paste this within called the update method and set
+
+02:15.240 --> 02:17.390
+the update if the image you are rolling.
+
+02:17.730 --> 02:20.190
+Now we are not updating anything at all.
+
+02:20.310 --> 02:21.570
+So that is perfect.
+
+02:22.350 --> 02:24.330
+So our update logic looks good.
+
+02:25.660 --> 02:29.320
+Let's run the application and try to update our product.
+
+02:32.320 --> 02:33.880
+Let's go to product here.
+
+02:35.460 --> 02:36.900
+Let's try to update this.
+
+02:37.260 --> 02:41.220
+And let me go back to the images, we have the fortune of time.
+
+02:41.490 --> 02:43.080
+Let's create the same title.
+
+02:47.970 --> 02:53.610
+We have updated the details here that produced the image, which is fortune off time.
+
+02:54.480 --> 02:55.200
+Let's go back.
+
+02:57.900 --> 03:00.870
+The image that we have already is that leaf image.
+
+03:01.180 --> 03:02.310
+So that's perfect.
+
+03:02.620 --> 03:10.440
+We'll see if that gets updated with select action and soft cover as soon as you hit the update button.
+
+03:10.680 --> 03:12.210
+You will see something weird.
+
+03:12.780 --> 03:13.650
+Let me show with that.
+
+03:14.610 --> 03:16.110
+Let's check the update button.
+
+03:17.670 --> 03:24.180
+What effect you can see, what actually happened is it did not update the existing entry, but actually
+
+03:24.180 --> 03:26.010
+it created a new entry.
+
+03:27.220 --> 03:34.030
+So I want you guys to add a debunking point and try to find out on why it is creating a new record rather
+
+03:34.030 --> 03:36.040
+than updating the existing record.

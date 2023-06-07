@@ -1,0 +1,163 @@
+WEBVTT
+
+00:01.900 --> 00:08.380
+Now, when they create a user account, they want to fetch this role and assign argues in that particular
+
+00:08.380 --> 00:13.360
+role so far that they stop the application and go back here.
+
+00:13.780 --> 00:16.870
+We will be working on the register page model.
+
+00:17.530 --> 00:23.920
+We will work on the post handler because here we will be receiving the request when the register button
+
+00:23.920 --> 00:24.640
+is clicked.
+
+00:25.540 --> 00:27.280
+We are creating a user here.
+
+00:27.580 --> 00:34.150
+And once the research is successful, we want to assign the role that was selected to the user as well.
+
+00:35.080 --> 00:42.070
+So once the user has been created successfully, we can check the value off road so we can have an if
+
+00:42.070 --> 00:42.730
+condition.
+
+00:43.060 --> 00:50.140
+And on the input model, we have the role that will be populated because if we go to register, we are
+
+00:50.140 --> 00:58.150
+finding that to input that room so we can extract that here and we can check if user darkroom is now
+
+00:58.600 --> 00:59.410
+in that case.
+
+00:59.680 --> 01:05.770
+Let's create a user with the default individual user role, which will be the end customer.
+
+01:06.610 --> 01:08.320
+So to assign a user role?
+
+01:08.620 --> 01:09.820
+We will have to await.
+
+01:10.210 --> 01:12.640
+We have the user manager on that.
+
+01:12.660 --> 01:15.400
+We have a method actor told a saying.
+
+01:16.030 --> 01:22.960
+Make sure you use add to roll and not add to the thoughts process used for multiple roles that you want
+
+01:22.960 --> 01:24.370
+to assign to weight user.
+
+01:24.790 --> 01:26.770
+We just want to assign one role.
+
+01:27.520 --> 01:30.850
+So in here first, we need to pass the user object.
+
+01:31.150 --> 01:35.350
+And next is that only that is inside static details.
+
+01:35.680 --> 01:42.550
+We have the user individual that is the lowest role that we have in our website, which is like an end
+
+01:42.550 --> 01:45.880
+user coming to our website and browsing our website.
+
+01:46.900 --> 01:50.350
+Then in the as part input, that role is populated.
+
+01:50.830 --> 01:54.850
+We want to assign user manager start to roll.
+
+01:54.850 --> 01:59.680
+A single user object should be assigned a role that was selected.
+
+02:00.490 --> 02:04.150
+So we want to assign the role of input Dockrell.
+
+02:04.840 --> 02:10.120
+So this looks great, but let's run the application and see this in action.
+
+02:12.060 --> 02:19.800
+Let me register as an admin user with a select group of admin, and let's register.
+
+02:21.180 --> 02:26.670
+Great use that has been created here, but let's go to a database to validate everything.
+
+02:27.780 --> 02:32.550
+Let me refresh the table here and you see admin at darknet mastery.
+
+02:33.240 --> 02:39.360
+One thing that will be different here is if you go to the right on, the properties are populated with
+
+02:39.360 --> 02:46.380
+the phone number, but you can see the discriminator application user because they use user type that
+
+02:46.380 --> 02:49.440
+we are creating now is application user.
+
+02:50.340 --> 02:55.230
+So that is working as expected if we go to the ASP.NET Rhodes table.
+
+02:55.620 --> 03:00.750
+We have the admin drawer and the idea of federal and training a.
+
+03:01.970 --> 03:08.870
+Now, the mapping table that maps the rules and the user is the Espiner user draws table, it will only
+
+03:08.870 --> 03:10.130
+have one entry.
+
+03:10.610 --> 03:13.100
+This is the new user that we just created.
+
+03:13.430 --> 03:16.210
+And you can see the roll ID is 28.
+
+03:16.640 --> 03:21.350
+That means this user was assigned the role of admin successfully.
+
+03:22.470 --> 03:24.870
+Support, in fact, we can see how useful to help.
+
+03:24.990 --> 03:28.680
+My thoughts are with you as a manager and role manager.
+
+03:29.670 --> 03:35.820
+Let me go back out and let me try to register a user without selecting any role.
+
+03:38.590 --> 03:45.280
+So if it did not select any rule and hit the register button, the default rule of individual user should
+
+03:45.280 --> 03:45.940
+be assigned.
+
+03:46.570 --> 03:47.860
+Let's execute this.
+
+03:48.220 --> 03:54.250
+The new user card, created with a rule of six a let's see that ESPN had rules.
+
+03:54.640 --> 04:01.870
+The one ending and 60 is the individual rule so perfect that it's working as expected.
+
+04:03.010 --> 04:06.520
+Next, what I want to do is we have companies right here.
+
+04:07.210 --> 04:13.930
+So when they on register and if you want to register a company account, I want to display in a dropdown
+
+04:13.930 --> 04:20.410
+here the list of all the companies so that I can use it can select that and click the register button.
+
+04:21.920 --> 04:23.900
+Let's do that in the next video.

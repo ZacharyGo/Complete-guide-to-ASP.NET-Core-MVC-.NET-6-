@@ -1,0 +1,241 @@
+WEBVTT
+
+00:01.630 --> 00:07.630
+Now that the roads have been created here, if we go back to our web site, when we are registering
+
+00:07.630 --> 00:13.270
+for a new account, we have more properties like we have name address of the user.
+
+00:13.640 --> 00:19.810
+And let's also display all the roads in a drop down so that we can select the corresponding room and
+
+00:19.810 --> 00:21.370
+register now.
+
+00:21.380 --> 00:27.790
+Do not worry when we publish or finalize our application, you will not see that option of selecting
+
+00:27.790 --> 00:29.980
+Road because that is a bad approach.
+
+00:30.640 --> 00:37.420
+You do not want your end user to see if they want to register as an admin user, so we will fix that
+
+00:37.600 --> 00:38.860
+in the later videos.
+
+00:39.250 --> 00:41.290
+But let's implement that for now.
+
+00:42.080 --> 00:47.920
+So let me start the application here and go back to register that see CDMO.
+
+00:49.010 --> 00:54.710
+So inside the register model, this is a page model because these are razor pages.
+
+00:55.400 --> 01:02.660
+So if you scroll down, we have the input model that is used on the register here, why we have email,
+
+01:02.900 --> 01:04.940
+password and confirm password.
+
+01:05.810 --> 01:11.000
+We want to add more properties which are there inside the application user.
+
+01:11.450 --> 01:15.390
+We can copy them and paste them right here.
+
+01:15.920 --> 01:17.990
+Neil will be a required property.
+
+01:19.710 --> 01:26.340
+Now that we have added more properties inside the beach model, we can consume them inside the register
+
+01:26.350 --> 01:29.970
+page and open that up right here.
+
+01:30.690 --> 01:36.030
+Let me just add padding to all the places so that it's more aligned.
+
+01:37.350 --> 01:41.070
+Also, I remove the button large on the register button.
+
+01:41.940 --> 01:47.880
+Also, if you go back to the register account, we just have email password and confirm password.
+
+01:48.360 --> 01:55.740
+But if you notice, in fact, the database for Espenak users, we have a phone number so we can use
+
+01:55.740 --> 01:56.610
+that as well.
+
+01:57.510 --> 02:01.050
+So right here, that will create a string for our phone number.
+
+02:01.770 --> 02:04.050
+Now we can modify the register view.
+
+02:04.350 --> 02:12.900
+I will copy the email here and pasted about five or six more times before we get the email.
+
+02:13.080 --> 02:14.760
+Let's get the name of the user.
+
+02:17.390 --> 02:19.400
+We do not want the auto complete.
+
+02:19.820 --> 02:21.620
+I should have removed that.
+
+02:29.360 --> 02:30.140
+And perfect.
+
+02:30.410 --> 02:32.930
+So after name, we have the street address.
+
+02:33.290 --> 02:39.590
+Let me get the phone number first, so we get all the details and then we will work on grass.
+
+02:59.870 --> 03:04.040
+So perfect, we have all the details that we are getting right here.
+
+03:05.030 --> 03:06.020
+Let me see if this.
+
+03:06.290 --> 03:14.360
+And then when we register our user inside the on post is saying we are creating a user if you press
+
+03:14.360 --> 03:17.120
+F12 here or go to the implementation.
+
+03:17.630 --> 03:24.210
+Create user will just create an instance of the identity user on identity user.
+
+03:24.230 --> 03:28.730
+We do not have the custom properties they are inside application user.
+
+03:29.270 --> 03:37.640
+So when we create an instance, we want to create an instance of application user with an app using
+
+03:37.640 --> 03:42.020
+statement and the return type will be application user.
+
+03:43.230 --> 03:49.470
+So let's crawl back up to the create user, then we're setting the username and e-mail.
+
+03:50.340 --> 03:57.810
+But I also want to more properties that we have in the register page, which is great address city state
+
+03:58.050 --> 04:05.220
+postal code, name and phone number, so we can manually assign all of that to the user object from
+
+04:05.220 --> 04:06.240
+the input photo.
+
+04:07.110 --> 04:14.160
+This is our razor pages, so it should make sense because we implemented a great website using razor
+
+04:14.160 --> 04:14.760
+pages.
+
+04:15.630 --> 04:21.180
+Then we're creating a user with the help of user manager and its helper method.
+
+04:22.500 --> 04:24.570
+So with that, let me save everything.
+
+04:24.870 --> 04:32.400
+And that's when the application inside the cat handler, we still have the code to create rolls, but
+
+04:32.400 --> 04:39.690
+that will not be invoked because those rules already exist in the database that check the register button
+
+04:40.290 --> 04:41.160
+and perfect.
+
+04:41.430 --> 04:42.750
+This looks much better.
+
+04:43.740 --> 04:46.800
+One thing that we can do is design this much better.
+
+04:47.040 --> 04:49.380
+This use another service to register.
+
+04:49.740 --> 04:51.570
+Let's give that some less space.
+
+04:52.200 --> 04:58.590
+So let me go to register here, where we'll give this column empty of, let's say, seven.
+
+04:59.620 --> 05:03.940
+And the other one, we can give that five and remove the offset.
+
+05:04.240 --> 05:06.580
+Let me save this and refresh.
+
+05:07.360 --> 05:07.890
+Perfect.
+
+05:08.260 --> 05:14.890
+Much better, then we can add two properties in one row we have column empty seven.
+
+05:15.160 --> 05:20.980
+I can add a row after that and all the properties here, I can do column six.
+
+05:23.420 --> 05:25.760
+So let me paste them one by one.
+
+05:32.650 --> 05:33.820
+Let me save this.
+
+05:34.720 --> 05:35.710
+And that's good.
+
+05:35.980 --> 05:37.900
+Let me go to the top here again.
+
+05:40.060 --> 05:42.700
+And we can assign a class of fruit to our fire.
+
+05:43.660 --> 05:46.570
+Let's go back and refresh and perfect.
+
+05:47.350 --> 05:48.700
+This looks much better.
+
+05:49.330 --> 05:53.620
+Let me also add padding top of for to give some space on the top.
+
+05:54.670 --> 05:58.660
+And here also will give it a glass of padding top for.
+
+06:00.710 --> 06:06.410
+One change I agree to make you more take the first phase so I can cut the email from here.
+
+06:06.950 --> 06:08.480
+They stick to the top here.
+
+06:09.020 --> 06:10.940
+I will give that column 12.
+
+06:12.580 --> 06:14.140
+And this looks much better.
+
+06:15.100 --> 06:17.230
+So a registered page is looking good.
+
+06:17.410 --> 06:20.320
+If you had to register, we have the validations.
+
+06:21.250 --> 06:27.430
+But one thing that is missing here is when we create a user, we want the user to select Roll right
+
+06:27.430 --> 06:31.630
+now, so we need to add a dropdown and their display.
+
+06:31.840 --> 06:33.910
+All the rules from our database.
+
+06:34.720 --> 06:36.820
+Let's do that in the next week, you.

@@ -1,0 +1,109 @@
+WEBVTT
+
+00:01.760 --> 00:08.390
+I want to add some credit here so that the drop down for our company is only visible and company is
+
+00:08.390 --> 00:10.880
+selected in the roles down.
+
+00:11.570 --> 00:18.980
+So while the application is running, we can go back to the registered e-mail and scroll down.
+
+00:19.520 --> 00:21.860
+Let's add some custom JavaScript.
+
+00:23.650 --> 00:28.300
+We'll say document dark ready and we'll create a function.
+
+00:30.560 --> 00:35.150
+Once the document is ready, we want to add a trigger on this dropdown.
+
+00:35.840 --> 00:41.930
+So if you press F12 here and inspect that element, we have the i.d.s in patrol.
+
+00:42.650 --> 00:49.220
+So let's add a trigger on input row so we can set dollar cash and patrol.
+
+00:49.640 --> 00:52.100
+And on there we have the change event.
+
+00:52.790 --> 00:57.290
+So whenever we change the dropdown here, we want to call this function.
+
+00:58.490 --> 01:02.570
+We're going to create a variable I call the selection is equal to.
+
+01:03.140 --> 01:05.970
+We want to get the text of the current selection.
+
+01:06.770 --> 01:13.520
+So if you go to the input text here, whichever option is selected that will have an option of selected.
+
+01:14.720 --> 01:23.870
+So in order to get that order based the input rule on top of that, the option should be selected if
+
+01:23.870 --> 01:24.770
+that is selected.
+
+01:25.070 --> 01:28.190
+Then we want to get the text of that dropped out.
+
+01:29.540 --> 01:31.880
+Simple query nothing complex.
+
+01:32.660 --> 01:41.240
+Then we can check here if selection is not equal to let's see the selection value, which is company.
+
+01:41.900 --> 01:49.790
+So if that is not equal to company, then we want to toggle the next dropdown that we have here.
+
+01:51.860 --> 01:54.280
+Let me get its safety input.
+
+01:54.390 --> 01:56.070
+Underscore company I.T..
+
+01:57.660 --> 02:04.020
+So we want to say Dollar Tash input company, and we want to hide it.
+
+02:04.350 --> 02:12.810
+If this election is not company as we want to display that, so else we want to show it that nothing
+
+02:12.810 --> 02:14.790
+complex, but this should work.
+
+02:15.480 --> 02:17.110
+Let's go back and refresh here.
+
+02:17.850 --> 02:24.690
+And if we select anything other than company, it's not possible when we select a company that gets
+
+02:24.690 --> 02:25.200
+loaded.
+
+02:26.520 --> 02:27.090
+Perfect.
+
+02:27.240 --> 02:29.820
+Let me go to the top where we have to drop down.
+
+02:30.390 --> 02:33.540
+I would have style of discipline and by default.
+
+02:35.660 --> 02:37.130
+Let's refresh the page.
+
+02:38.680 --> 02:39.910
+And that is perfect.
+
+02:41.720 --> 02:44.330
+Only this last the other drop down.
+
+02:45.710 --> 02:50.040
+Now, of course, you can spend more time on validations and making this fancy.
+
+02:50.360 --> 02:52.190
+But that is not my main focus.
+
+02:52.670 --> 02:55.700
+So if that's continue from the next week, you.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:02.490 --> 00:08.970
+Now, it's time for our third assignment, this will be similar to what we do with the menu item, but
+
+00:08.970 --> 00:11.940
+a lot simpler in this assignment.
+
+00:12.060 --> 00:17.010
+I want you guys to create a company model which will have the following properties.
+
+00:17.640 --> 00:25.350
+It will be the primary key name will be required and street address, city state postal code and phone
+
+00:25.350 --> 00:25.890
+number.
+
+00:26.370 --> 00:28.080
+They can be optional field.
+
+00:29.010 --> 00:36.300
+Once you create the table, then you will have to add company to repository and unit of work using that
+
+00:36.300 --> 00:37.200
+repository.
+
+00:37.380 --> 00:42.390
+You need to perform the current operations on company using data tables.
+
+00:42.840 --> 00:46.950
+And also we will implement one action four update and edit.
+
+00:47.340 --> 00:50.670
+So you will have to do the same like menu item.
+
+00:51.480 --> 00:55.980
+So that will give you more practice with data table a that we have.
+
+00:56.310 --> 00:58.830
+And of course, validations will be the same.
+
+00:59.820 --> 01:04.470
+So good luck with the assignment, and let's continue from the next week, you.

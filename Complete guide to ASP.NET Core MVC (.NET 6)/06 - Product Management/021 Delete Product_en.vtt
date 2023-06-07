@@ -1,0 +1,259 @@
+WEBVTT
+
+00:01.980 --> 00:07.470
+The last thing that we want to do is create a function here, that group responsible to delete that
+
+00:07.470 --> 00:08.040
+product.
+
+00:08.970 --> 00:11.490
+So I would call this function delete.
+
+00:11.940 --> 00:18.810
+And let's say here we've passed a euro that we have to invoke to hit our endpoint and take the product
+
+00:18.810 --> 00:21.120
+controller, which is right here.
+
+00:22.140 --> 00:23.670
+So let me switch back here.
+
+00:24.030 --> 00:25.680
+We want to call sweet alert.
+
+00:26.250 --> 00:33.480
+So if we go back to your browser and search for tweet alert in the example, let me search for 10 because
+
+00:33.480 --> 00:35.340
+we want to wait for a response.
+
+00:36.120 --> 00:37.110
+Let us try this.
+
+00:38.160 --> 00:38.910
+Not that.
+
+00:39.090 --> 00:40.200
+Let me scroll down.
+
+00:40.920 --> 00:43.860
+I think this one is much better audio show.
+
+00:44.220 --> 00:45.000
+Yes, delete.
+
+00:45.210 --> 00:52.200
+Then we want a notification that will copy the sweet alert and we will paste that in our function.
+
+00:53.260 --> 00:57.490
+When the result is confirmed, we do not quantify a Newsweek alert.
+
+00:57.910 --> 01:01.900
+We will have to make an Ajax request to hit that endpoint for delete.
+
+01:02.560 --> 01:04.330
+So we will say Ajax here.
+
+01:04.990 --> 01:07.510
+Inside there, we want to hit a wall.
+
+01:08.830 --> 01:11.650
+Thank you what we received in the parameter here.
+
+01:11.940 --> 01:13.990
+We will use that next.
+
+01:13.990 --> 01:24.030
+That time will be delete because if you examine the controller, we have HTP delete after that on success,
+
+01:24.040 --> 01:28.330
+we want to create a function that will receive some data.
+
+01:30.430 --> 01:37.270
+Now, if you examine the product controller and Jason, we are passing some data on error as well as
+
+01:37.270 --> 01:38.560
+successful deletion.
+
+01:39.670 --> 01:46.930
+So we will receive that data here and on that data, if we go back, we have a property with the name
+
+01:46.930 --> 01:52.450
+of success and message so we can see here if data are success.
+
+01:52.810 --> 01:57.610
+If that is true, then we want to use the toaster notification.
+
+01:58.180 --> 02:05.500
+We added that toaster on discord layout so we can use that we will adjust the toaster, that success
+
+02:06.310 --> 02:12.040
+and we will display data that message in the Allspark.
+
+02:12.340 --> 02:13.540
+We have some error.
+
+02:13.870 --> 02:18.370
+So we will display a toaster, that error and data anti-tax message.
+
+02:19.240 --> 02:24.970
+One thing that I want to do is if the delete was successful, I want to reload our data table.
+
+02:25.930 --> 02:26.980
+So we have that.
+
+02:26.980 --> 02:29.020
+In fact, the variable data table.
+
+02:29.590 --> 02:37.210
+So right here we can see a data table that Ajax that reload with that change.
+
+02:37.450 --> 02:40.360
+Let me save everything and run the application.
+
+02:41.560 --> 02:48.050
+Let me add a debugging point inside the delete endpoint now with twenty twenty two.
+
+02:48.340 --> 02:51.100
+We have something known as temporary break point.
+
+02:51.640 --> 02:57.970
+You just need to right click here and we can insert a temporary breakpoint once this breakpoint has
+
+02:57.970 --> 02:59.590
+head, that will go away.
+
+02:59.950 --> 03:05.200
+That way, we do not have to worry about the hassle of removing the breakpoint every time.
+
+03:06.400 --> 03:10.870
+Let's go to product here and let me create a new temporary product.
+
+03:16.080 --> 03:17.460
+That shows an image.
+
+03:19.930 --> 03:21.610
+And hit the Create button.
+
+03:22.600 --> 03:23.770
+Let's try the delete.
+
+03:24.400 --> 03:27.910
+When we hit delete here, we do not get any sweet alert.
+
+03:28.630 --> 03:30.460
+And of course, we will not get that.
+
+03:31.030 --> 03:35.320
+We added this function of delete, but did we call it on the delete button?
+
+03:35.650 --> 03:36.410
+We did not.
+
+03:37.360 --> 03:40.620
+So instead, this anchor tag we want to call it on.
+
+03:40.630 --> 03:44.350
+Click here, and we want to invoke the delete function.
+
+03:45.160 --> 03:47.350
+Here we need to pass that you are L.
+
+03:47.680 --> 03:49.210
+That is inside admin.
+
+03:49.510 --> 03:54.580
+We have product and then we need to pass the I.D. supplier's dollar.
+
+03:55.030 --> 04:00.100
+We will pass that data, which has the idea of the product that needs to be deleted.
+
+04:01.300 --> 04:02.350
+That can save this.
+
+04:02.590 --> 04:05.860
+Go back and refresh and hit delete one more time.
+
+04:06.280 --> 04:06.820
+Perfect.
+
+04:07.120 --> 04:08.570
+We have suite alert here.
+
+04:09.050 --> 04:16.330
+If you click on cancel and nothing happens, let's try to hit delete and it should hit an endpoint that
+
+04:16.330 --> 04:17.080
+it does not.
+
+04:17.740 --> 04:19.450
+Let me see what happened here.
+
+04:19.840 --> 04:20.860
+We have an error.
+
+04:21.100 --> 04:22.030
+Let's see that.
+
+04:23.630 --> 04:25.370
+Thank you, are out is incorrect.
+
+04:25.550 --> 04:32.960
+Let me go back here and after product, we need to add the action method name, which is to lead, but
+
+04:32.960 --> 04:34.550
+see that right here.
+
+04:35.270 --> 04:37.340
+Also, this quote will not be here.
+
+04:37.730 --> 04:41.420
+It will be after the data like this.
+
+04:42.850 --> 04:44.890
+With that, let me see if that changes.
+
+04:45.190 --> 04:47.890
+Let's go back and refresh here.
+
+04:48.400 --> 04:53.110
+Let's try this one more time and perfect radar break point.
+
+04:54.620 --> 05:00.920
+The image is also getting deleted, product is removed from the database and we go back.
+
+05:01.160 --> 05:02.600
+Delete was successful.
+
+05:03.640 --> 05:08.380
+So with this, all the current operations on product are now working successfully.
+
+05:09.310 --> 05:15.610
+We spent a lot of time on product, but if you examine we have done things way differently now, we
+
+05:15.610 --> 05:19.180
+have a nice day at our table here when we are creating a product.
+
+05:19.360 --> 05:21.700
+We have emerged that we are taking care of.
+
+05:22.000 --> 05:27.310
+We have dropdowns where we saw a few back view data and view models.
+
+05:27.910 --> 05:30.580
+So everything is working as expected.
+
+05:31.150 --> 05:36.040
+One last thing I noticed here is packed list is taking it back to cover tape.
+
+05:36.430 --> 05:37.390
+Let me fix that.
+
+05:39.350 --> 05:46.990
+So insert the absurd page here, if we scroll down where it is that there should be tracked.
+
+05:48.120 --> 05:50.220
+So with that, we have done with the product.
+
+05:50.550 --> 05:52.890
+Let's continue from the next section.

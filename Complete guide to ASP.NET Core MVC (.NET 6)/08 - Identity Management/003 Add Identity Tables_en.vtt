@@ -1,0 +1,166 @@
+WEBVTT
+
+00:01.890 --> 00:07.930
+Now that we have the register and I can buy cans here, if we click on register, you will see we get
+
+00:07.980 --> 00:09.510
+an error page not found.
+
+00:10.350 --> 00:17.490
+And the reason behind that is it is going to identity and then it is adding a parameter of page that
+
+00:17.490 --> 00:18.270
+is not correct.
+
+00:18.720 --> 00:21.240
+What should be the route to this register page?
+
+00:21.900 --> 00:29.700
+If we go back to our solution here, if we examine areas we have identity and then intact pages, we
+
+00:29.700 --> 00:31.440
+have account and register.
+
+00:32.700 --> 00:39.330
+So if we see the navigation in underscored play out, that is kind of correct, we have the ESP area
+
+00:39.330 --> 00:47.850
+as identity and ESP page at a county clerk in ESP interest attack happened that we use for outing with
+
+00:47.850 --> 00:49.020
+the reserve pages.
+
+00:49.920 --> 00:51.180
+So what is happening?
+
+00:51.390 --> 00:54.660
+Why is it not going to the correct route right here?
+
+00:55.740 --> 01:02.580
+The reason behind that is if you go to program Garcia's file and when we do the mapping here inside
+
+01:02.580 --> 01:07.680
+the services, we have added controllers and we have added greater features.
+
+01:08.340 --> 01:13.230
+But if we scroll down in the pipeline, we only have to out for controller.
+
+01:14.450 --> 01:22.850
+So here we also have to add that you need to raise our wages only after that speech that you have here.
+
+01:23.300 --> 01:25.790
+It will be able to map that properly.
+
+01:26.600 --> 01:30.380
+So with that change, let's run the application one more time.
+
+01:33.100 --> 01:38.170
+And then if you click on register, it will load the register page right here.
+
+01:39.040 --> 01:39.640
+Perfect.
+
+01:40.710 --> 01:46.170
+So now the razor pages are working and we can open the register and I can page.
+
+01:46.800 --> 01:50.400
+That is great news when you're trying to register here.
+
+01:50.670 --> 01:52.260
+You will see nothing happens.
+
+01:53.300 --> 01:55.640
+We will fix that added in just a second.
+
+01:56.030 --> 02:02.540
+But think about what should happen when a user is registered at that point, it should create some things
+
+02:02.540 --> 02:05.330
+or some record inside the database tables.
+
+02:06.410 --> 02:11.420
+But if we examine our sequel survey does not have any tables to store them.
+
+02:12.350 --> 02:16.040
+Do not ready identity has everything done for you.
+
+02:16.730 --> 02:23.780
+If you see in program that since we have configured the default identity and we're using entity framework
+
+02:23.780 --> 02:31.520
+stores on the application context, so in order to add those tables, only things that you have to do
+
+02:31.670 --> 02:33.020
+is add a migration.
+
+02:34.490 --> 02:40.070
+So we will set add migration and Typekit call this an identity to the app.
+
+02:40.820 --> 02:47.510
+Now, if you press enter here, you will see error message with the migration reason behind that is
+
+02:47.510 --> 02:49.220
+migration that we are adding.
+
+02:49.550 --> 02:57.230
+The default project is bulky, but co-EP migration should only be applied where we have DB context and
+
+02:57.230 --> 02:59.270
+that is inside the data access.
+
+02:59.870 --> 03:04.400
+So if you do not change the default project, you will see this added message.
+
+03:06.060 --> 03:13.290
+Also, if you have multiple project, the start up project should be the project with those two changes.
+
+03:13.710 --> 03:15.990
+Let's add the migration one more time.
+
+03:17.670 --> 03:19.860
+And perfect, it added a migration.
+
+03:20.340 --> 03:21.690
+Let's see what it added.
+
+03:22.470 --> 03:25.200
+It is creating lots of tables right here.
+
+03:25.770 --> 03:32.400
+The main table is Espenak Rolls that is related to roll software user and Espenak users.
+
+03:32.790 --> 03:38.190
+That is the table where we will have all the user details for the registered users.
+
+03:38.970 --> 03:44.340
+It also has other rules, claims and tables that are needed with the identity.
+
+03:45.590 --> 03:50.000
+So you can see all the foundation for cables logging in, sign up.
+
+03:50.300 --> 03:54.830
+Everything is done by default, so it will save us a bunch of time.
+
+03:56.160 --> 04:00.840
+If we had to implement this on our own, it would have been a huge project.
+
+04:02.020 --> 04:08.470
+So once we have the migration, all we have to do is update database to create these tables.
+
+04:10.030 --> 04:11.560
+And perfect, that is done.
+
+04:11.770 --> 04:17.440
+If they go back and refresh the tables, now you see lots of ESPN add tables.
+
+04:17.770 --> 04:20.950
+And these are all identity related tables.
+
+04:21.960 --> 04:25.270
+So with that, let's continue from the next radio.
+
+04:25.680 --> 04:27.420
+Let me close out the taps here.
+
+04:27.930 --> 04:28.500
+Perfect.

@@ -1,0 +1,82 @@
+WEBVTT
+
+00:01.760 --> 00:08.720
+Now that we have completed the company's current operations, let's get back to the users usage and
+
+00:08.720 --> 00:11.270
+any applications are of many type.
+
+00:11.970 --> 00:18.030
+We also have multiple users, we will have basic employees, we will have outgoing accounts.
+
+00:18.390 --> 00:23.210
+We will have customers and we will have special type of company customers.
+
+00:24.220 --> 00:31.360
+In order to identify each user in that application when they register, we should assign them a particular
+
+00:31.360 --> 00:31.780
+role.
+
+00:32.750 --> 00:38.150
+First, you would have to ask yourself, how will any rules or application?
+
+00:39.740 --> 00:43.220
+When we go to Solution Explorer program, that's a yes.
+
+00:43.550 --> 00:49.190
+We have added the default identity right here inside default identity.
+
+00:49.220 --> 00:52.690
+We do not have the support for rules for roads.
+
+00:52.730 --> 00:59.960
+We will have to change the default identity and we will add a custom identity we do with identity user.
+
+01:00.320 --> 01:03.380
+We want something which is identity well.
+
+01:04.400 --> 01:11.120
+With that, we are using the default implementation of rules that is present in the identity class library.
+
+01:12.050 --> 01:18.650
+Now, when you change the default identity to customer identity, we have to enable the default token
+
+01:18.650 --> 01:19.430
+providers.
+
+01:20.030 --> 01:26.750
+We did not have to do this before because it was already included inside the identity class library.
+
+01:27.530 --> 01:33.080
+But since we are using a custom identity now, we need to explicitly generate tokens.
+
+01:34.130 --> 01:39.590
+Now you might be thinking whether these tokens being used that can show that as well.
+
+01:39.950 --> 01:46.970
+If they go toward identity area Typekit open the register page model inside the post handler.
+
+01:46.970 --> 01:51.860
+If they scroll down once they use it is created inside to create async.
+
+01:52.250 --> 01:55.910
+What happens is we generate a token to confirm an email.
+
+01:56.600 --> 02:00.590
+You can see we have generate email confirmation token async.
+
+02:01.370 --> 02:07.100
+So this method uses the implementation that is defined with the default token provider.
+
+02:08.310 --> 02:12.900
+Since we removed the default identity, we have to explicitly add that.
+
+02:13.870 --> 02:18.580
+But that's all that we had to do to add the support for our roads and our application.
+
+02:19.210 --> 02:23.800
+But now the question is how will be assigned role and they create a user.
+
+02:24.490 --> 02:26.620
+But let's do that in the next week, you.

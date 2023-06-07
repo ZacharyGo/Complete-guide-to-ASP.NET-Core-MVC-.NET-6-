@@ -1,0 +1,331 @@
+WEBVTT
+
+00:01.960 --> 00:04.600
+Now we are going to add rules in that application.
+
+00:05.320 --> 00:12.370
+If we go back to our database and if we examine the ESPN at Rhodes table, you will notice that we do
+
+00:12.370 --> 00:15.100
+not have any rules created by default.
+
+00:15.910 --> 00:18.610
+So this means we have to create our rules.
+
+00:19.450 --> 00:21.150
+So how can we create rules?
+
+00:21.450 --> 00:23.950
+The first question that we should be solving?
+
+00:25.000 --> 00:31.510
+Ideally, rules will be created when we are seeding our database that we will show in the later part
+
+00:31.510 --> 00:32.290
+of the course.
+
+00:33.010 --> 00:36.280
+But right now, we need to figure out a way to create rules.
+
+00:37.270 --> 00:39.380
+Let's do that inside the register.
+
+00:39.400 --> 00:43.990
+That's a demo, and we can do that inside the cat handler.
+
+00:45.090 --> 00:50.650
+In order to create rules, we have something called as a road manager right here.
+
+00:50.670 --> 00:56.220
+You notice we have to use a manager that we are getting with the help of dependency injection.
+
+00:57.000 --> 01:04.740
+Similarly, we have a road manager, so that may create a private read only road manager and it will
+
+01:04.740 --> 01:08.640
+be on the D5 type off road, which is Identity Road.
+
+01:09.240 --> 01:13.140
+That is the default role that we get with ESPN at identity.
+
+01:14.070 --> 01:20.700
+I recall that underscored road manager and here in the constructor where they get road manager.
+
+01:22.420 --> 01:27.280
+Which will be on identity row roll, they call that road manager.
+
+01:28.000 --> 01:32.620
+So we'll say underscore for a manager is equal to or as manager.
+
+01:33.520 --> 01:38.830
+Then if we go into on get handler, we have helper method on general manager.
+
+01:39.910 --> 01:47.320
+Method to create a sink, which expects an identity row survivor to create new identity role.
+
+01:49.160 --> 01:56.060
+And in fact, there we just need to pass the string name, which will be our own bill so we can say
+
+01:56.060 --> 01:57.380
+something like hatman.
+
+01:57.710 --> 02:00.290
+And that will create an identity for all.
+
+02:01.320 --> 02:03.930
+But it is a bad idea to use magic strings.
+
+02:04.260 --> 02:10.380
+We have a constant fight for that which is inside the utility project historic detail.
+
+02:11.500 --> 02:18.790
+So inside here I can create four rolls off our Web site, admin and employee will be the management
+
+02:18.790 --> 02:20.650
+side or from the company side.
+
+02:21.100 --> 02:22.480
+And then we have two rules.
+
+02:22.750 --> 02:24.520
+One is individual users.
+
+02:24.820 --> 02:26.080
+That is the end user.
+
+02:26.410 --> 02:28.390
+And next is a company user.
+
+02:29.800 --> 02:36.550
+So these are the two end users that we will have company will have some different requirements as compared
+
+02:36.550 --> 02:40.360
+to the individual users when it comes to character management.
+
+02:41.380 --> 02:43.240
+So we have four questions here.
+
+02:43.510 --> 02:49.660
+If we go back to what register, rather than using the strings, we will use ecstatic detail.
+
+02:49.990 --> 02:52.420
+We will press control, start to act.
+
+02:52.450 --> 02:56.080
+The project reference on static details.
+
+02:56.410 --> 02:57.460
+We have admin.
+
+02:58.480 --> 03:00.550
+So right now we are creating Pacman.
+
+03:00.820 --> 03:03.070
+And you can see this is an async method.
+
+03:03.610 --> 03:07.000
+That's fine because our action method is also async here.
+
+03:07.360 --> 03:15.070
+But if you want it to be executed as synchronously, then we can call Castelveter on there and get result.
+
+03:15.790 --> 03:22.060
+What it will do is it will call the async method wait for the results only then it will move to the
+
+03:22.060 --> 03:22.720
+next line.
+
+03:23.590 --> 03:25.390
+So we are creating admin here.
+
+03:25.720 --> 03:30.130
+Let me paste it into the create theater rules for employee.
+
+03:30.670 --> 03:32.560
+We have individual users.
+
+03:34.020 --> 03:35.310
+And we have company.
+
+03:36.420 --> 03:39.450
+So with this, all different rules will be created.
+
+03:40.230 --> 03:45.990
+But what this will do is every time the cat handler is called, it will go to the database and create
+
+03:45.990 --> 03:46.650
+this rules.
+
+03:47.310 --> 03:54.780
+We only want to create if the rules do not exist in the database, so we can happen if condition and
+
+03:54.780 --> 03:55.950
+on roll manager.
+
+03:56.070 --> 04:00.690
+We have another helper method, which is a rule exists sync.
+
+04:01.230 --> 04:03.930
+This will check if were already accessed or not.
+
+04:04.290 --> 04:10.050
+So if you can check any one of them, because as long as one of them does not exist, we will create
+
+04:10.290 --> 04:12.420
+all four rules of our website.
+
+04:13.110 --> 04:14.430
+We will add and not sign.
+
+04:14.760 --> 04:18.060
+And since this is an async method, we will use the cat.
+
+04:18.150 --> 04:21.720
+We do not get result to get the result here.
+
+04:23.010 --> 04:28.530
+So if the rule do not exist, we will create these four rules inside our database.
+
+04:29.770 --> 04:33.130
+Let's run the application and see what happens.
+
+04:35.020 --> 04:40.570
+We added that inside to get handler, so all we have to do is load the register page.
+
+04:41.440 --> 04:47.950
+But what will happen is when people click on register, we will see an error message with email sender
+
+04:48.610 --> 04:49.480
+and perfect.
+
+04:49.930 --> 04:54.490
+You see, we have an edit here which could not resolve an email sender.
+
+04:55.360 --> 04:57.460
+Now what exactly is happening here?
+
+04:57.640 --> 05:00.430
+Would it not change anything with the email sender?
+
+05:00.940 --> 05:03.820
+So why are we getting this weird error message?
+
+05:04.720 --> 05:06.730
+The reason behind that is simple.
+
+05:07.270 --> 05:09.100
+What we did is in programmed answer.
+
+05:09.110 --> 05:14.530
+Yes, we are not using the default identity when you use default identity.
+
+05:14.740 --> 05:16.510
+You get some things by default.
+
+05:17.110 --> 05:21.590
+But if it is a custom identity, then you have to make your own changes.
+
+05:22.390 --> 05:25.240
+Up that was adding that default token provider.
+
+05:26.590 --> 05:27.160
+Same thing.
+
+05:27.160 --> 05:31.960
+What we have to do is if we go back to the register page model that is open here.
+
+05:32.320 --> 05:39.910
+If you examine on the top here in dependency injection, we expect an email sender and its implementation
+
+05:40.210 --> 05:42.040
+using dependency injection.
+
+05:42.820 --> 05:48.850
+This email tender is the genetic for sending email inside the identity that you want.
+
+05:49.570 --> 05:55.540
+We do not have any class that implements that interface because after which when it tries to get an
+
+05:55.540 --> 06:00.010
+implementation independencia injection, we get that error message.
+
+06:01.000 --> 06:08.500
+So to start that, what we can do is inside the utility project, for now, we will add a fake implementation
+
+06:08.770 --> 06:10.120
+of the email sender.
+
+06:11.590 --> 06:14.380
+So let me add a class here, email, sender.
+
+06:15.370 --> 06:17.170
+This will be a public class.
+
+06:17.710 --> 06:20.920
+And this will implement the i e mail sender.
+
+06:22.580 --> 06:28.520
+With a press control tucked inside the package, Microsoft at ESPN Echo Dot identity.
+
+06:28.640 --> 06:29.540
+Don't you worry.
+
+06:30.510 --> 06:37.260
+Once that is done, we will have to implement the interface and one method that we have here rather
+
+06:37.260 --> 06:38.520
+than throwing exception.
+
+06:38.910 --> 06:42.030
+We will just say task, don't complete a task.
+
+06:42.930 --> 06:48.240
+So we are not sending any emails right now, but we'll just say the task was completed.
+
+06:49.050 --> 06:51.870
+That's a fake implementation of email sender.
+
+06:52.260 --> 06:55.380
+With that, we would not get the error message anymore.
+
+06:56.160 --> 07:02.400
+So let's run the application and see if we can create rules when we hit the register page.
+
+07:03.830 --> 07:05.870
+So let's click on register here.
+
+07:06.620 --> 07:09.470
+And of course, we still get the same error message.
+
+07:10.160 --> 07:17.300
+That is because we added the implementation of email sender, but we forgot to register that in program.
+
+07:17.300 --> 07:18.140
+That's yes.
+
+07:19.040 --> 07:25.490
+So where we have registered in a tough work, we can also add a singleton implementation of email.
+
+07:26.300 --> 07:29.240
+Singleton is fine because we are sending emails.
+
+07:29.540 --> 07:32.150
+We do not want to go with the scoped instance.
+
+07:33.240 --> 07:39.390
+So with that now, the dependency injection should be able to resolve that, I email sender.
+
+07:41.480 --> 07:45.770
+Let's check the register page and the page is loaded.
+
+07:46.220 --> 07:49.430
+Let's go back and refresh the ESPN rules.
+
+07:49.820 --> 07:50.390
+Perfect.
+
+07:50.780 --> 07:55.130
+You can see four rules have been created inside our database.
+
+07:55.970 --> 07:59.720
+So perfect our rules have been created in the database.

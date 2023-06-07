@@ -1,0 +1,154 @@
+WEBVTT
+
+00:01.650 --> 00:06.150
+We have the default identity user, which does not have much properties.
+
+00:06.760 --> 00:13.890
+We want to extend our identity user and create a new model with many more properties for our websites
+
+00:13.890 --> 00:14.460
+user.
+
+00:15.300 --> 00:20.340
+So inside the Models folder, right click Add a new class file.
+
+00:21.180 --> 00:24.330
+We will call this application user.
+
+00:26.280 --> 00:30.690
+This will be a public clash, and we want to extend the identity.
+
+00:30.960 --> 00:37.530
+Use her if you press control, start here, it will give you the option to instant and you'll get the
+
+00:37.530 --> 00:38.040
+package.
+
+00:38.460 --> 00:43.410
+We want to install Microsoft Guard extension, guard identity Dutch doors.
+
+00:44.690 --> 00:50.180
+If that is not displayed, you can go to the new gate package manager and install that package.
+
+00:51.720 --> 00:56.580
+With no application, user has all the properties of identity user.
+
+00:58.040 --> 01:04.760
+On top of that, we want to add more properties like, let's say we want the required property fund
+
+01:04.760 --> 01:09.850
+name of the user, so which have proper string name.
+
+01:11.090 --> 01:18.380
+Then we want the address of the user so we can add strings for address, city, state and postal code
+
+01:19.040 --> 01:20.870
+if we want them to be Nullarbor.
+
+01:21.080 --> 01:23.000
+We will have to do that as well.
+
+01:23.900 --> 01:30.590
+They are not delivered by default, so we can add the question mark here to make all of them no property
+
+01:30.740 --> 01:32.000
+and not required.
+
+01:33.480 --> 01:35.270
+So that's all that we had to do.
+
+01:35.780 --> 01:38.630
+And I believe these are good enough to get started.
+
+01:39.500 --> 01:47.090
+So let me see if the application user and we need to create a DPI said for an application, user friendly
+
+01:47.090 --> 01:49.100
+application, deep context.
+
+01:50.740 --> 01:57.190
+So Vibrant Creative is set on application user and cloud that application users.
+
+01:58.060 --> 02:07.030
+Once we do that, we need to add a new migration so that the migration we can limit and extend identity
+
+02:07.060 --> 02:07.720
+user.
+
+02:11.170 --> 02:13.600
+Of course, we need that data access.
+
+02:13.900 --> 02:15.080
+Let's do that again.
+
+02:16.030 --> 02:16.840
+And perfect.
+
+02:17.200 --> 02:20.710
+You can see all it is doing it inside the Aspen accusers.
+
+02:20.950 --> 02:22.690
+It is adding a few columns.
+
+02:23.590 --> 02:26.080
+Let's run the Command Update database.
+
+02:29.060 --> 02:30.740
+And switch to sequels over.
+
+02:32.390 --> 02:37.040
+And if we examine bulky tables, AXP net users.
+
+02:38.270 --> 02:44.180
+So if we go on that right side here, we have name, postal code, state and address that was handed.
+
+02:45.350 --> 02:47.720
+We have all the properties right here.
+
+02:48.350 --> 02:52.770
+But on top of that, a new property got added, which is discriminator.
+
+02:53.540 --> 02:59.120
+What exactly is this to see that that may register one more user?
+
+03:06.140 --> 03:11.570
+Let's check the register button and let's go back to database refresh.
+
+03:12.380 --> 03:20.720
+So the test one that God created will have the discriminator populated as identity user darknet is very
+
+03:20.720 --> 03:22.610
+smart when it comes to identity.
+
+03:23.210 --> 03:26.840
+Now it knows that there are two types of user in our application.
+
+03:27.380 --> 03:32.000
+One is application user and one is the default identity user.
+
+03:32.690 --> 03:34.950
+So discriminator is added here.
+
+03:35.000 --> 03:42.230
+That way, it can differentiate between an identity user and application user in the later videos when
+
+03:42.230 --> 03:44.000
+we create application user.
+
+03:44.360 --> 03:49.100
+The value of this discriminator will be application user.
+
+03:50.510 --> 03:55.060
+So perfect with that, we have added more properties inside humans here.
+
+03:55.970 --> 04:02.270
+But before we come back to this user management, I want to work on something different, which is company
+
+04:02.690 --> 04:07.910
+because a user can be either a company user or an individual user.
+
+04:08.970 --> 04:15.600
+So let's change our focus for a few videos and get that wrapped up, and then we will come back to the
+
+04:15.600 --> 04:17.010
+identity tables.
