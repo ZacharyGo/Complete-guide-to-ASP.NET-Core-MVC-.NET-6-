@@ -4,10 +4,10 @@ $(document).ready(function () {
     loadDataTable();
 });
 
-function loadDataTable(){
+function loadDataTable() {
     dataTable = $('#tblData').DataTable({
         "ajax": {
-            "url": "/Admin/Product/GetAll"
+            "url":"/Admin/Product/GetAll"
         },
         "columns": [
             { "data": "title", "width": "15%" },
@@ -20,22 +20,20 @@ function loadDataTable(){
                 "render": function (data) {
                     return `
                         <div class="w-75 btn-group" role="group">
-                            <a href="/Admin/Product/Upsert?id=${data}"
-                            class="btn btn-primary mx-2"><i class="bi bi-pencil-square"></i>Edit</a>
-                            <a onClick=Delete('/Admin/Product/Delete/${data}') 
-                            class="btn btn-danger mx-2"><i class="bi bi-trash-fill"></i>Delete</a>
-                        </div>
-                    `
+                        <a href="/Admin/Product/Upsert?id=${data}"
+                        class="btn btn-primary mx-2"> <i class="bi bi-pencil-square"></i> Edit</a>
+                        <a onClick=Delete('/Admin/Product/Delete/${data}')
+                        class="btn btn-danger mx-2"> <i class="bi bi-trash-fill"></i> Delete</a>
+					</div>
+                        `
                 },
                 "width": "15%"
-            },
+            }
         ]
-    });    
+    });
 }
 
 function Delete(url) {
-    console.log('before');
-
     Swal.fire({
         title: 'Are you sure?',
         text: "You won't be able to revert this!",
@@ -51,17 +49,14 @@ function Delete(url) {
                 type: 'DELETE',
                 success: function (data) {
                     if (data.success) {
-                        console.log('success');
                         dataTable.ajax.reload();
                         toastr.success(data.message);
                     }
                     else {
-                        console.log('failed');
                         toastr.error(data.message);
                     }
                 }
             })
         }
     })
-    console.log('hello');
 }

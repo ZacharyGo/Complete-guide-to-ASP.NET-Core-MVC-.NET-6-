@@ -1,34 +1,34 @@
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll

@@ -1,300 +1,585 @@
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.Development.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.staticwebassets.runtime.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.exe
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.deps.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.runtimeconfig.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Azure.Core.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Azure.Identity.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Humanizer.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\MessagePack.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Common.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Configuration.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Frameworks.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.LibraryModel.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Packaging.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.ProjectModel.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Protocol.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Versioning.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.CodeDom.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Composition.AttributedModel.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Convention.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Hosting.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Runtime.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Composition.TypedParts.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Drawing.Common.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Memory.Data.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Permissions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Text.Json.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyBookWeb.props
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.pack.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.build.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.development.json
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\scopedcss\bundle\BulkyBookWeb.styles.css
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CopyComplete
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\refint\BulkyBookWeb.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
-Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\appsettings.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.staticwebassets.runtime.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.exe
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.deps.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.runtimeconfig.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\netstandard.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Console.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Web.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Humanizer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\MessagePack.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.CodeDom.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Resources.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\scopedcss\bundle\BulkyBookWeb.styles.css
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CopyComplete
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\refint\BulkyBookWeb.dll
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
+D:\Practice(Sample)\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Bulky\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\refint\BulkyBookWeb.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.Development.json
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\appsettings.json
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.staticwebassets.runtime.json
@@ -303,16 +588,308 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.runtimeconfig.json
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBookWeb.pdb
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Azure.Core.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Azure.Identity.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\netstandard.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Console.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Data.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Web.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\refs\WindowsBase.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Humanizer.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\MessagePack.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -335,29 +912,15 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
@@ -365,7 +928,6 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Mono.TextTemplating.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\NuGet.Common.dll
@@ -386,13 +948,10 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Drawing.Common.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Memory.Data.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Resources.Extensions.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Text.Json.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -556,26 +1115,18 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.BulkyBookWeb.props
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
@@ -587,15 +1138,5 @@ D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBo
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\scopedcss\bundle\BulkyBookWeb.styles.css
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CopyComplete
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\refint\BulkyBookWeb.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
 D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

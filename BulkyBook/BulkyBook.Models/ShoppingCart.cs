@@ -10,7 +10,7 @@ namespace BulkyBook.Models
     public class ShoppingCart
     {
         public Product Product { get; set; }
-        [Range(0, 1000, ErrorMessage = "Please enter a value between 1 to 1000")]
+        [Range(1, 1000, ErrorMessage = "Please enter a value between 1 and 1000")]
         public int Count { get; set; }
     }
 }

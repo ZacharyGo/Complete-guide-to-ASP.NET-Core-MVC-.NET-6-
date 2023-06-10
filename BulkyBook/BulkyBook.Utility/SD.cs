@@ -8,6 +8,5 @@ namespace BulkyBook.Utility
 {
     public static class SD
     {
-        // To place all constants of our project.
     }
 }
