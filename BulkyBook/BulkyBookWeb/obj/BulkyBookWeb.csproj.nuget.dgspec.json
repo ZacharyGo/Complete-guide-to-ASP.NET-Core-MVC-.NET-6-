@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+    "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectUniqueName": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
         "projectName": "BulkyBook.DataAccess",
-        "projectPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Zachary\\.nuget\\packages\\",
-        "outputPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
+        "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\z.go\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Zachary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\z.go\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-                "projectPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+              "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
               }
             }
           }
@@ -45,6 +49,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.5, )"
@@ -84,21 +92,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+    "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
-        "packagesPath": "C:\\Users\\Zachary\\.nuget\\packages\\",
-        "outputPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.Models\\obj\\",
+        "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\z.go\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Zachary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\z.go\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,21 +158,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
-        "packagesPath": "C:\\Users\\Zachary\\.nuget\\packages\\",
-        "outputPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "packagesPath": "C:\\Users\\z.go\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Zachary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\z.go\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -169,15 +185,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-                "projectPath": "Z:\\Practice\\ASP.NET\\Complete guide to ASP.NET Core MVC (.NET 6)\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+              "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+                "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
               }
             }
           }
@@ -230,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

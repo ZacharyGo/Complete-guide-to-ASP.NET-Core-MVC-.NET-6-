@@ -10,3 +10,15 @@ Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyB
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
 Z:\Practice\ASP.NET\Complete guide to ASP.NET Core MVC (.NET 6)\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+D:\Practice\ASP.Net\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\BulkyBook\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
