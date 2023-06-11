@@ -10,13 +10,12 @@ namespace BulkyBook.DataAccess.Repository
 {
     public class CoverTypeRepository : Repository<CoverType>, ICoverTypeRepository
     {
-        private ApplicationDbContext _db;
+        private ApplicationDBContext _db;
 
-        public CoverTypeRepository(ApplicationDbContext db) : base(db)
+        public CoverTypeRepository(ApplicationDBContext db) : base(db) 
         {
             _db = db;
         }
-
 
         public void Update(CoverType obj)
         {

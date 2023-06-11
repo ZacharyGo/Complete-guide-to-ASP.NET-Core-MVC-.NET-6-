@@ -11617,6 +11617,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BulkyBook.DataAccess >= 1.0.0",
+      "BulkyBook.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0-rc.1.21452.15",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.0-rc.1.21452.15",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.0-rc.1.21452.15",
@@ -11661,6 +11662,9 @@
           "projectReferences": {
             "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
               "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            },
+            "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
             }
           }
         }
