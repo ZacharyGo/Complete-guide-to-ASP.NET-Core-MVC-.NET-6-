@@ -17,7 +17,9 @@ builder.Services.AddDbContext<ApplicationDBContext>(options => options.UseSqlSer
     builder.Configuration.GetConnectionString("DefaultConnection")
 ));
 
-builder.Services.AddDefaultIdentity<IdentityUser>()
+/*builder.Services.AddDefaultIdentity<IdentityUser>(options=> options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<ApplicationDBContext>(); */ 
+builder.Services.AddDefaultIdentity<IdentityUser>() // remove option that can only signin if email is confirmed
     .AddEntityFrameworkStores<ApplicationDBContext>();
 /*builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();*/
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -39,7 +41,7 @@ app.UseRouting();
 app.UseAuthentication();;
 
 app.UseAuthorization();
-
+app.MapRazorPages(); 
 app.MapControllerRoute(
     name: "default",
     /*pattern: "{controller=Home}/{action=Index}/{id?}");*/
