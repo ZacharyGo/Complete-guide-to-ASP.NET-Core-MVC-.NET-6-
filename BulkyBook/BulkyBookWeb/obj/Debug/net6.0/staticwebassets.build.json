@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LtXSs4A97ChMh1jvgy6vYCrzPGXIhU1IqT6UFZT2S7U=",
+  "Hash": "b/9VvKIjOI2l6YcS0xvMCPom5NZRKCoM2JLIO8oKQSM=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1256,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\e57b605f-edce-4529-aea8-2a4cd410ec9c.jpg"
+    },
+    {
+      "Identity": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\Company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/Company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Company.js"
     },
     {
       "Identity": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",

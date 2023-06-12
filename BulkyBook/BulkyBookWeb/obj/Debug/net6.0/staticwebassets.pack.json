@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\products\\e57b605f-edce-4529-aea8-2a4cd410ec9c.jpg"
     },
     {
+      "Id": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
       "Id": "D:\\Practice\\ASP.Net\\Complete-guide-to-ASP.NET-Core-MVC-.NET-6-\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
