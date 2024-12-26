@@ -3,10 +3,14 @@
     "tfm": "net7.0",
     "framework": {
       "name": "Microsoft.NETCore.App",
+<<<<<<< HEAD:BulkyBook/BulkyBook.DataAccess/bin/Debug/net7.0/BulkyBook.DataAccess.runtimeconfig.json
       "version": "7.0.0"
     },
     "configProperties": {
       "System.Reflection.NullabilityInfoContext.IsSupported": true
+=======
+      "version": "6.0.0"
+>>>>>>> origin/testBranch:BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.runtimeconfig.json
     }
   }
 }

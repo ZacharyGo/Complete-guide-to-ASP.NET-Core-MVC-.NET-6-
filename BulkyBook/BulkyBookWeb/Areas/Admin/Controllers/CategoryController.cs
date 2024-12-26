@@ -2,9 +2,11 @@
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace BulkyBookWeb.Areas.Admin.Controllers
 {
+	[Area("Admin")]
     public class CategoryController : Controller
     {
         /*private readonly ApplicationDBContext _db;*/
@@ -53,6 +55,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             return View(obj);
 
         }
+		//GET
         public IActionResult Edit(int? id)
         {
             if (id == null || id == 0)
@@ -118,7 +121,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         /*[HttpPost]*/
         [HttpPost, ActionName("Delete")] // use DeletePost with Delete Action but Post Method
         [ValidateAntiForgeryToken]
-        public IActionResult DeletePost(int? id)
+        public IActionResult DeletePOST(int? id)
         {
             /*var obj  = _db.Categories.Find(id);*/
             /*var obj = _db.GetFirstOrDefault(u=>u.Id==id);*/

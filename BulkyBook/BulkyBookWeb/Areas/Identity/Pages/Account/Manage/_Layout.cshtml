@@ -1,7 +1,13 @@
 ﻿@{
+<<<<<<< HEAD
     if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
     {
         Layout = parentLayout.ToString();
+=======
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout))
+    {
+        Layout = (string)parentLayout;
+>>>>>>> origin/testBranch
     }
     else
     {

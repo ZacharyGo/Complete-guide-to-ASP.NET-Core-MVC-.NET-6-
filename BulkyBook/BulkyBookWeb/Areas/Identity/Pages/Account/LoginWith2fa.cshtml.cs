@@ -1,7 +1,10 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
+<<<<<<< HEAD
 #nullable disable
 
+=======
+>>>>>>> origin/testBranch
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Threading.Tasks;
@@ -10,6 +13,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Identity;
+<<<<<<< HEAD
+=======
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+>>>>>>> origin/testBranch
 using Microsoft.Extensions.Logging;
 
 namespace BulkyBookWeb.Areas.Identity.Pages.Account

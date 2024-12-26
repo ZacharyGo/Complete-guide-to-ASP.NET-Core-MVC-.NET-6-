@@ -1,7 +1,10 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
+<<<<<<< HEAD
 #nullable disable
 
+=======
+>>>>>>> origin/testBranch
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
@@ -89,7 +92,11 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account.Manage
             var user = await _userManager.GetUserAsync(User);
             if (user == null)
             {
+<<<<<<< HEAD
                 return NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
+=======
+                NotFound($"Unable to load user with ID '{_userManager.GetUserId(User)}'.");
+>>>>>>> origin/testBranch
             }
 
             await LoadSharedKeyAndQrCodeUriAsync(user);

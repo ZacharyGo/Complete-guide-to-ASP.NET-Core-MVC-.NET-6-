@@ -1,7 +1,10 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
+<<<<<<< HEAD
 #nullable disable
 
+=======
+>>>>>>> origin/testBranch
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -106,7 +109,11 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
         }
 
+<<<<<<< HEAD
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
+=======
+        public async Task<IActionResult> OnPostAsync(string? returnUrl = null)
+>>>>>>> origin/testBranch
         {
             returnUrl ??= Url.Content("~/");
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();

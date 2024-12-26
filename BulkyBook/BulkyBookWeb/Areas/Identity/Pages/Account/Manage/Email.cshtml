@@ -10,11 +10,19 @@
 <div class="row">
     <div class="col-md-6">
         <form id="email-form" method="post">
+<<<<<<< HEAD
             <div asp-validation-summary="All" class="text-danger" role="alert"></div>
             @if (Model.IsEmailConfirmed)
             {
                 <div class="form-floating mb-3 input-group">
                     <input asp-for="Email" class="form-control" placeholder="Please enter your email." disabled />
+=======
+            <div asp-validation-summary="All" class="text-danger"></div>
+            @if (Model.IsEmailConfirmed)
+            {
+                <div class="form-floating input-group">
+                    <input asp-for="Email" class="form-control" disabled />
+>>>>>>> origin/testBranch
                         <div class="input-group-append">
                             <span class="h-100 input-group-text text-success font-weight-bold">✓</span>
                         </div>
@@ -23,14 +31,24 @@
             }
             else
             {
+<<<<<<< HEAD
                 <div class="form-floating mb-3">
                     <input asp-for="Email" class="form-control" placeholder="Please enter your email." disabled />
+=======
+                <div class="form-floating">
+                    <input asp-for="Email" class="form-control" disabled />
+>>>>>>> origin/testBranch
                     <label asp-for="Email" class="form-label"></label>
                     <button id="email-verification" type="submit" asp-page-handler="SendVerificationEmail" class="btn btn-link">Send verification email</button>
                 </div>
             }
+<<<<<<< HEAD
             <div class="form-floating mb-3">
                 <input asp-for="Input.NewEmail" class="form-control" autocomplete="email" aria-required="true" placeholder="Please enter new email." />
+=======
+            <div class="form-floating">
+                <input asp-for="Input.NewEmail" class="form-control" autocomplete="email" aria-required="true" />
+>>>>>>> origin/testBranch
                 <label asp-for="Input.NewEmail" class="form-label"></label>
                 <span asp-validation-for="Input.NewEmail" class="text-danger"></span>
             </div>
